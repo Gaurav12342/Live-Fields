@@ -1,0 +1,43 @@
+[
+	{
+		"url": "/dashboard/",
+		"icon": "/images/dashboard.svg",
+		"name": "Dashboard"
+	},
+	{
+		"url": "/sheets/",
+		"icon": "/images/plan.svg",
+		"name": "Sheets"
+	},
+	{
+		"url": "/tasks/",
+		"icon": "/images/list.svg",
+		"name": "Tasks"
+	},
+	{
+		"url": "/reports/",
+		"icon": "/images/report.svg",
+		"name": "Reports"
+	},
+	
+	{
+		"url": "/files/",
+		"icon": "/images/files.svg",
+		"name": "Files"
+	},
+	{
+		"url": "/photos/",
+		"icon": "/images/photos.svg",
+		"name": "Photos"
+	},
+	{
+		"url": "/people/",
+		"icon": "/images/invite-people.svg",
+		"name": "People"
+	},
+	{
+		"url": "/setting/",
+		"icon": "/images/setting.svg",
+		"name": "Settings"
+	}
+]

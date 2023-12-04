@@ -1,0 +1,127 @@
+.lf-dashboard-toolbar {
+	background: #fff;
+	border-bottom: 1px solid #ddd;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 5;
+	margin: 0;
+	padding: 4px 20px 4px 0px;
+	min-height: 40px;
+	box-shadow: 0 0.33rem 0.5rem -0.5rem rgb(115 82 199 / 18%);
+
+	h3 {
+		margin: 0px;
+		font-size: 1rem;
+		font-weight: 700;
+	}
+
+	.breadcrumb {
+		border-radius: 0px;
+		padding: 0px;
+		background: none;
+		margin: 0;
+		align-items: center;
+		justify-content: end;
+		// float: right;
+	}
+
+	.breadcrumb a {
+		color: var(--bs-dark);
+	}
+
+	.lf-toolbar-action-icon {
+		padding: 0.25rem 0.5rem;
+		display: inline-block;
+		border-radius: 0.25rem;
+		margin: 5px 0px;
+		&.selected {
+			background-color: $btn-selected-bg-color;
+			color: var(--bs-primary);
+		}
+		&:hover {
+			background-color: $btn-selected-bg-color;
+			color: var(--bs-primary);
+		}
+	}
+}
+
+// .lf-dashboard-toolbar{
+//     background: #fff;
+//     border-bottom: 1px solid #ddd;
+//     position: sticky;
+//     top: 0;
+//     z-index: 5;
+// }
+
+.lf-common-btn {
+	//font-weight: 600;
+	padding: 5px 12px;
+	margin: 2px;
+	color: var(--bs-dark);
+	cursor: pointer;
+	letter-spacing: 0.25px;
+	&:hover {
+		// background-color: $btn-selected-bg-color;
+		color: var(--bs-primary);
+		border-radius: 5px;
+		// border: 1px solid #f97316;
+		//padding-left: 0.41rem !important;
+		// padding-right: 0.41rem !important;
+	}
+}
+
+.lf-common-btn:disabled, .lf-common-btn:active,.lf-common-btn:focus,.lf-common-btn:focus-within,
+.lf-common-btn:focus-visible,.lf-common-btn:checked,.lf-common-btn:target,.lf-common-btn:visited {
+	border-color: transparent !important;
+}
+
+.text-left {
+	text-align: left !important;
+}
+
+.btn-sort-dd.lf-common-btn:hover,
+.breadcrumb .lf-common-btn:hover {
+	// padding-left: 12px !important;
+	// padding-right: 12px !important;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.toolbar-search {
+	.input-group-text {
+		background: transparent;
+		border: unset;
+	}
+}
+
+@mixin toolbar-line-after-header {
+	display: flex;
+	height: 40px;
+	&::after {
+		-ms-flex-item-align: stretch;
+		-webkit-align-self: stretch;
+		content: '';
+		align-self: stretch;
+		box-sizing: border-box;
+		margin: 6px 8px 6px 8px;
+		width: 1px;
+		background-color: hsla(0, 0%, 89%, 0.973);
+		// background-color: #777;
+	}
+
+	@media (max-width: 768px) {
+		&::after {
+			display: none;
+		}
+	}
+}
+.toolbar-line-after {
+	@include toolbar-line-after-header;
+}
+.toolbar-line-after-d {
+	@include toolbar-line-after-header;
+	&::after {
+		margin: 5px 3px 17px 8px;
+	}
+}

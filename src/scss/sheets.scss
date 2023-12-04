@@ -1,0 +1,36 @@
+.lf-sheet-card {
+	position: -webkit-sticky;
+	position: sticky;
+	display: flex;
+	word-wrap: break-word;
+	border-radius: 5px;
+	z-index: 4;
+	top: 40px;
+	-ms-flex-direction: column;
+	flex-direction: column;
+}
+
+.lf-sheets-gallary {
+	width: 150px;
+	object-fit: cover;
+	height: 150px;
+}
+
+.lf-sheet-list-table-header {
+	position: sticky;
+	top: 50px;
+	z-index: 100;
+}
+.sheet-btn:hover {
+	background-color: #f5f8fa;
+	color: #f97316;
+	padding: 1px 7px 1px 4px;
+}
+// Sheets details
+.lf-Sheet-details-toolbar {
+	.css-zk88xw-singleValue {
+		color: #000;
+	}
+}
+
+// Sheets details end

@@ -1,0 +1,2094 @@
+@media screen and (max-height: 450px) {
+	.sidenav {
+		// padding-top: 15px;
+	}
+
+	.sidenav a {
+		font-size: 1rem;
+	}
+	.notification-box {
+		.lf-layout-profile-menu{
+			font-size: 14px;
+		}
+		.dropdown-menu{
+			padding: 0 !important;
+		}
+	}
+}
+
+@media (max-width: 1225px) {
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	.Add-related-task {
+		margin-left: 170px;
+	}
+}
+
+@media (max-width: 1125px) {
+	.Add-related-task {
+		margin-left: 170px;
+	}
+}
+
+@media (max-width: 1025px) {
+	/* licence css */
+	.lf-btn-business {
+		left: 38px;
+	}
+
+	.lf-plan-card-title {
+		font-size: 27px;
+	}
+
+	.lf-cart-offer-title {
+		margin-top: -1px;
+		font-size: 34px;
+	}
+
+	.cart-price {
+		font-size: 40px;
+		margin-left: 12px;
+		top: 10px;
+	}
+
+	.offers {
+		top: -40px;
+	}
+
+	.card-rupee {
+		top: 25px;
+	}
+
+	.lf-cart-price-info {
+		margin-top: 17px;
+		font-size: 27px;
+	}
+
+	.lf-cart-bill {
+		font-size: 20px;
+		margin-left: -14px;
+		text-align: justify;
+		margin-bottom: -1px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 18px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 20px;
+		margin-left: -14px;
+		text-align: justify;
+		margin-bottom: -1px;
+		margin-top: -20px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 18px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -15px;
+	}
+
+	.payment-body {
+		width: 57%;
+	}
+
+	.payment {
+		margin-top: -50px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 41px;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: 77px !important;
+		margin-bottom: -35px;
+		margin-bottom: -35px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		margin-top: 10px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 20px;
+		margin-left: -4px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		left: 137px;
+		top: -12px;
+	}
+
+	.payment-rupee {
+		left: 135px;
+		top: -8px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* .lf-create-task-title{
+    margin-left: 65px;
+  } */
+	/* .lf-create-task-subtitle{
+    margin-top: -85px;
+  } */
+	/* .lf-create-task-publish {
+    left: 312px;
+    margin-top: -91px;
+    float: right;
+  } */
+}
+
+@media (max-width: 800px) {
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 35px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 41%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 374px;
+		margin-left: -78px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 747px;
+		margin-left: -232px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 22px;
+	}
+
+	/* billing info */
+	.lf-billing-content {
+		font-size: 14px;
+		margin-top: 1px;
+	}
+
+	.lf-billing-zip-code {
+		font-size: 10px;
+	}
+
+	.lf-billing-gstin {
+		margin-left: 28px;
+	}
+
+	.lf-billing-info {
+		margin-top: -40px;
+	}
+
+	.lf-plan-billing {
+		font-size: 15px;
+		text-align: justify;
+	}
+
+	.lf-billing-btn-next {
+		width: 400px;
+		padding-right: 49px;
+	}
+
+	/* billing-info */
+	.lf-billing-plan {
+		margin-top: 18px;
+	}
+
+	.lf-billing-select-plan-radio {
+		margin-left: -171px;
+	}
+
+	.lf-billing-info {
+		margin-top: -55px;
+	}
+
+	.lf-plan-billing {
+		font-size: 13px;
+		text-align: justify;
+	}
+
+	.lf-billing-btn-next {
+		width: 30%;
+		margin-right: 4px;
+	}
+
+	/* cart css */
+	.lf-card-details {
+		margin-top: 10px;
+		font-size: 13px;
+	}
+
+	.lf-card-start-date {
+		margin-top: 10px;
+		font-size: 13px;
+	}
+
+	.lf-cart-offer-title {
+		margin-top: 10px;
+		font-size: 19px;
+		margin-bottom: 20px;
+	}
+
+	.cart-price {
+		font-size: 40px;
+		margin-left: -34px;
+	}
+
+	.offers {
+		top: -35px;
+	}
+
+	.lf-cart-licence-count {
+		font-size: 13px;
+	}
+
+	.lf-cart-count {
+		width: 26%;
+	}
+
+	.lf-cart-bill {
+		font-size: 20px;
+		margin-left: -14px;
+		text-align: justify;
+		margin-bottom: -1px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 18px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 20px;
+		margin-left: -14px;
+		text-align: justify;
+		margin-bottom: -1px;
+		margin-top: -20px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 18px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -15px;
+	}
+
+	.payment-body {
+		width: 70%;
+	}
+
+	.payment {
+		margin-top: -50px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: 50px !important;
+		margin-bottom: -35px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		margin-top: 10px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 15px;
+		margin-left: -4px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		left: 40px;
+	}
+
+	.payment-rupee {
+		left: 45px;
+	}
+
+	.lf-cart-payment-wrapper {
+		margin-left: 52px;
+	}
+
+	.lf-footer-cart-info {
+		font-size: 14px;
+		margin-left: 10px;
+	}
+
+	/* notification css */
+	.lf-notification-toggle::after {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		appearance: none;
+	}
+
+	.notification-main {
+		// padding-bottom: 10px;
+	}
+	.lf-img-sm-book {
+		margin-left: 296px;
+		margin-top: -28px;
+	}
+
+	.lf-notification-msg {
+		margin-top: -24px;
+	}
+
+	.lf-notification-data {
+		margin-left: 40px;
+		font-size: 14px;
+	}
+
+	.lf-notification-box:hover .lf-notification-box-setting-icon {
+		display: inline-block !important;
+		transition: 0.4s;
+		margin-left: 199px;
+		margin-top: 4px;
+	}
+
+	.topnav {
+		color: black;
+		position: fixed;
+		width: 340px;
+	}
+
+	.lf-image-task-comment {
+		margin-right: 421px;
+	}
+
+	.lf-comment-user {
+		margin-bottom: -21px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* kanban css */
+	.lf-tasks-kanban-status {
+		display: inline-block !important;
+	}
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+
+	.lf-create-task-title {
+		margin-left: 65px;
+	}
+
+	.lf-create-task-subtitle {
+		margin-top: -85px;
+	}
+
+	.lf-create-task-publish {
+		margin-top: -91px;
+		float: right;
+	}
+}
+
+@media (max-width: 700px) {
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 338px;
+		margin-left: -125px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 676px;
+		margin-left: -207px;
+	}
+
+	.lf-btn-enterprise {
+		left: -134px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 15px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 85px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+}
+
+@media (max-width: 600px) {
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		left: -15px;
+	}
+
+	.lf-card-content-paln .card {
+		left: -9px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 13px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 115px;
+	}
+
+	/* cart css */
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 376px;
+		margin-left: -106px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 676px;
+		margin-left: -204px;
+	}
+
+	.lf-btn-enterprise {
+		left: -127px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 20px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 115px;
+	}
+
+	.lf-billing-content {
+		font-size: 14px;
+		margin-top: 1px;
+	}
+
+	.lf-billing-zip-code {
+		font-size: 15px;
+	}
+
+	.lf-billing-gstin {
+		margin-left: 28px;
+	}
+
+	.lf-billing-info {
+		margin-top: -40px;
+	}
+
+	.lf-plan-billing {
+		font-size: 15px;
+		text-align: justify;
+	}
+
+	.lf-billing-btn-next {
+		width: 50px;
+	}
+
+	.lf-btn-cart {
+		margin-right: 23px;
+	}
+
+	.plan-title {
+		text-align: center;
+	}
+
+	.lf-card-details {
+		margin-top: 9px;
+		font-size: 13px;
+	}
+
+	.lf-card-start-date {
+		margin-top: -5px;
+		font-size: 13px;
+	}
+
+	.lf-card-offer {
+		font-size: 13px;
+		margin-top: 10px;
+	}
+
+	.lf-cart-offer-title {
+		margin-bottom: 10px;
+		font-size: 18px;
+	}
+
+	.lf-cart-licence-wrapper {
+		margin-left: 9px;
+	}
+
+	.cart-price {
+		font-size: 40px;
+		margin-left: -15px;
+	}
+
+	.card-rupee {
+		left: 29px;
+		font-size: 34px;
+	}
+
+	.offers {
+		top: -32px;
+		font-size: 12px;
+	}
+
+	.lf-cart-price-info {
+		margin-top: 17px;
+		font-size: 17px !important;
+	}
+
+	.lf-cart-licence-count {
+		font-size: 19px;
+	}
+
+	.lf-cart-count {
+		margin-left: 2px;
+	}
+
+	.licence-add {
+		left: -106px;
+		top: 18px;
+	}
+
+	.text-cart {
+		margin-left: 112px;
+		margin-top: -34px;
+	}
+
+	.lf-cart-bill {
+		font-size: 15px;
+		margin-left: -10px;
+		text-align: justify;
+		margin-top: -15px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 13px;
+		margin-left: -9px;
+		text-align: justify;
+		margin-top: -22px;
+		margin-bottom: -5px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 14px;
+		margin-top: 2px;
+	}
+
+	.lf-cart-bill-plan-select-radio {
+		margin-top: -12px;
+		margin-left: -29px;
+	}
+
+	.lf-cart-bill-plan-select-month {
+		margin-left: -16px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 14px;
+		margin-top: 2px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -45px;
+	}
+
+	.payment-body {
+		width: 91%;
+	}
+
+	.payment {
+		margin-top: -50px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 39px;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: 68px !important;
+		margin-bottom: -29px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		margin-top: 10px;
+		left: 30px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 15px;
+		margin-left: -4px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		font-size: 46px;
+		left: 89px;
+		top: -11px;
+	}
+
+	.payment-rupee {
+		left: 91px;
+		top: -3px;
+	}
+
+	.lf-cart-payment-wrapper {
+		margin-left: 52px;
+	}
+
+	.lf-footer-cart-info {
+		font-size: 10px;
+		margin-left: 10px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+}
+
+@media (max-width: 500px) {
+	/* create-task-comment */
+	.lf-comment-user {
+		font-size: 10px;
+		margin-right: -20px;
+		margin-top: 8px;
+	}
+
+	.lf-comment-content {
+		width: 280px;
+		margin-right: -46px;
+		margin-top: -21px;
+	}
+
+	.lf-image-task-comment {
+		float: left;
+		margin-top: 24px;
+		margin-left: -35px;
+	}
+
+	.lf-comment-content-chat {
+		margin-left: 50px;
+		margin-top: -22px;
+	}
+
+	.lf-chat {
+		margin-right: -219px;
+		margin-top: -1px;
+	}
+
+	.lf-comment-user-chat {
+		font-size: 8px;
+		margin-left: -151px;
+	}
+
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 387px;
+		margin-left: -88px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 771px;
+		margin-left: -176px;
+	}
+
+	.lf-btn-enterprise {
+		left: -105px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 13px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 115px;
+	}
+
+	.lf-billing-select-plan {
+		margin-left: -189px;
+	}
+
+	.lf-billing-content {
+		font-size: 14px;
+		margin-top: 1px;
+	}
+
+	.lf-billing-zip-code {
+		font-size: 15px;
+	}
+
+	.lf-billing-gstin {
+		margin-left: 28px;
+	}
+
+	.lf-billing-info {
+		margin-top: -40px;
+	}
+
+	.lf-plan-billing {
+		font-size: 15px;
+		text-align: justify;
+	}
+
+	.lf-billing-btn-next {
+		width: 64px;
+	}
+
+	.lf-plan-main-title {
+		margin-left: -17px;
+	}
+
+	/* cart css */
+	.lf-card-details {
+		margin-top: -26px;
+		font-size: 13px;
+	}
+
+	.lf-card-start-date {
+		margin-top: -5px;
+		font-size: 13px;
+	}
+
+	.lf-card-offer {
+		font-size: 13px;
+		margin-top: 10px;
+	}
+
+	.lf-cart-offer-title {
+		margin-bottom: -15px;
+	}
+
+	.lf-cart-licence-wrapper {
+		margin-left: -123px;
+	}
+
+	.cart-price {
+		font-size: 53px;
+		margin-left: -15px;
+	}
+
+	.lf-cart-licence-count {
+		font-size: 18px;
+		margin-top: -33px;
+	}
+
+	.lf-cart-count {
+		width: 22%;
+		margin-left: 47px;
+	}
+
+	.licence-add {
+		left: 8px;
+		top: 1px;
+	}
+
+	.text-cart {
+		margin-left: 112px;
+		margin-top: -34px;
+	}
+
+	.cart-details-Subscribe {
+		border: none;
+		margin-left: -13px;
+	}
+
+	.lf-cart-bill {
+		font-size: 15px;
+		margin-left: -43px;
+		text-align: justify;
+		margin-top: -15px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 13px;
+		margin-left: -43px;
+		text-align: justify;
+		margin-top: -22px;
+		margin-bottom: -5px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 13px;
+		margin-top: 2px;
+	}
+
+	.lf-cart-bill-plan-select-radio {
+		margin-top: -14px;
+		margin-left: -79px;
+	}
+
+	.lf-cart-bill-plan-select-month {
+		margin-left: -16px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 13px;
+		margin-top: 2px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -98px;
+	}
+
+	.payment-body {
+		width: 83%;
+	}
+
+	.payment {
+		margin-top: -50px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 31px;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: -4px !important;
+		margin-bottom: -29px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		margin-top: 10px;
+		left: 52px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 15px;
+		margin-left: -4px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		font-size: 46px;
+		left: 35px;
+		top: -11px;
+	}
+
+	.payment-rupee {
+		left: 33px;
+	}
+
+	.lf-cart-payment-wrapper {
+		margin-left: 52px;
+	}
+
+	.lf-footer-cart-info {
+		font-size: 10px;
+		margin-left: 10px;
+	}
+
+	.lf-billing-plan {
+		margin-top: 2px;
+		margin-bottom: -44px;
+	}
+
+	.lf-billing-btn-next {
+		width: 64px;
+	}
+
+	.lf-btn-cart {
+		margin-right: -6px;
+	}
+
+	.lf-cart-plan {
+		margin-left: 47px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* .lf-create-task-publish {
+    left: 236px;
+    margin-top: -84px;
+    right: -27px;
+  } */
+	.lf-create-task-publish {
+		left: 30px;
+		top: 6px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+}
+
+@media (max-width: 400px) {
+	.lf-comment-user {
+		font-size: 6px;
+		margin: 9px -10px 0px 56px;
+	}
+
+	.lf-comment-content {
+		width: 210px;
+		margin-right: -164px;
+		margin-top: -21px;
+		margin-left: -10px;
+	}
+
+	.lf-image-task-comment {
+		float: left;
+		margin-top: 24px;
+		margin-left: -33px;
+	}
+
+	.lf-image-task-comment {
+		margin-right: 120px;
+	}
+
+	.lf-task-data {
+		width: 135px;
+		text-align: left;
+	}
+
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 378px;
+		margin-left: -112px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 757px;
+		margin-left: -186px;
+	}
+
+	.lf-btn-enterprise {
+		left: -106px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 15px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 2px;
+	}
+
+	.lf-billing-gstin {
+		margin-left: 2px;
+	}
+
+	.lf-plan-main-title {
+		margin-left: -17px;
+	}
+
+	.lf-cart-licence-wrapper {
+		margin-left: -91px;
+	}
+
+	.payment-body {
+		width: 76%;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 27px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		left: 28px;
+	}
+
+	.payment-price {
+		font-size: 46px;
+		left: 11px;
+		top: -11px;
+	}
+
+	.payment-rupee {
+		left: 10px;
+	}
+
+	.lf-billing-btn-next {
+		margin-right: -4px;
+		width: 38px;
+		padding-right: 44px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+}
+
+@media (max-width: 365px) {
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 23px;
+		margin-left: 15px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 260px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 379px;
+		margin-left: -111px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 760px;
+		margin-left: -181px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 14px;
+		margin-left: 10px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 2px;
+	}
+
+	/* billing-info */
+
+	.lf-billing-select-plan {
+		margin-left: -163px;
+	}
+
+	.lf-billing-select-plan-radio {
+		margin-left: -171px;
+	}
+
+	.lf-cart-plan {
+		margin-left: 23px;
+	}
+
+	.lf-billing-info {
+		margin-top: -55px;
+	}
+
+	.lf-plan-billing {
+		font-size: 13px;
+		text-align: justify;
+	}
+
+	.lf-billing-btn-next {
+		width: 22%;
+		margin-right: -4px;
+	}
+
+	/* cart css */
+
+	.lf-plan-main-title {
+		margin-left: -17px;
+	}
+
+	.lf-card-details {
+		margin-top: -26px;
+		font-size: 13px;
+	}
+
+	.lf-card-start-date {
+		margin-top: -5px;
+		font-size: 13px;
+	}
+
+	.lf-card-offer {
+		font-size: 13px;
+		margin-top: 10px;
+	}
+
+	.lf-cart-offer-title {
+		margin-bottom: -7px;
+	}
+
+	.lf-cart-licence-wrapper {
+		margin-left: -101px;
+	}
+
+	.cart-price {
+		font-size: 53px;
+		margin-left: -15px;
+	}
+
+	.lf-cart-licence-count {
+		font-size: 13px;
+		margin-top: -33px;
+	}
+
+	.lf-cart-count {
+		width: 22%;
+		margin-left: 40px;
+	}
+
+	.text-cart {
+		margin-left: 92px;
+		margin-top: -34px;
+	}
+
+	.cart-details-Subscribe {
+		border: none;
+	}
+
+	.lf-cart-bill {
+		font-size: 15px;
+		margin-left: -43px;
+		text-align: justify;
+		margin-top: -22px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 15px;
+		margin-left: -43px;
+		text-align: justify;
+		margin-top: -22px;
+		margin-bottom: -3px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 13px;
+		margin-top: 2px;
+	}
+
+	.lf-cart-bill-plan-select-radio {
+		margin-top: -14px;
+		margin-left: -79px;
+	}
+
+	.lf-cart-bill-plan-select-month {
+		margin-left: -16px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 13px;
+		margin-top: 2px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -98px;
+	}
+
+	.payment-body {
+		width: 80%;
+	}
+
+	.payment {
+		margin-top: -50px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 27px;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: -8px !important;
+		margin-bottom: -29px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		margin-top: 10px;
+		left: 36px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 15px;
+		margin-left: -8px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		font-size: 46px;
+		left: 12px;
+		top: -10px;
+	}
+
+	.payment-rupee {
+		left: 9px;
+	}
+
+	.lf-cart-payment-wrapper {
+		margin-left: 52px;
+	}
+
+	.lf-footer-cart-info {
+		font-size: 10px;
+		margin-left: 10px;
+	}
+
+	.licence-add {
+		left: 11px;
+		top: 1px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 91px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	.Add-related-task {
+		margin-left: 161px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+
+	.lf-create-task-title {
+		margin-left: 56px;
+	}
+
+	.lf-create-task-subtitle {
+		margin-top: -85px;
+	}
+
+	.lf-create-task-publish {
+		left: 56px;
+		top: 6px;
+	}
+}
+
+@media (max-width: 325px) {
+	/* Licence plan */
+	.lf-plan-select {
+		margin-top: -42px;
+		font-size: 25px;
+		margin-left: 15px;
+	}
+
+	.licence-add {
+		left: -11px;
+		top: 1px;
+	}
+
+	.lf-btn-plan {
+		margin-top: 7px;
+		width: 60%;
+		margin-left: 28px;
+		border-radius: 16px;
+		padding: 4px;
+	}
+
+	.lf-card-info {
+		width: 236px;
+	}
+
+	.lf-card-content .card {
+		margin-top: 404px;
+		margin-left: -103px;
+	}
+
+	.lf-card-content-paln .card {
+		margin-top: 807px;
+		margin-left: -166px;
+	}
+
+	.lf-footer-contact-info {
+		font-size: 12px;
+	}
+
+	.lf-footer-info-mail {
+		margin-left: 85px;
+	}
+
+	/* cart css */
+	.lf-plan-main-title {
+		margin-left: -17px;
+	}
+
+	.lf-cart-plan {
+		margin-left: -2px;
+	}
+
+	.lf-card-details {
+		margin-top: -26px;
+		font-size: 13px;
+	}
+
+	.lf-card-start-date {
+		margin-top: -5px;
+		font-size: 13px;
+	}
+
+	.lf-card-offer {
+		font-size: 13px;
+		margin-top: 10px;
+	}
+
+	.lf-cart-offer-title {
+		margin-bottom: -11px;
+	}
+
+	.lf-cart-licence-wrapper {
+		margin-left: -63px;
+	}
+
+	.cart-price {
+		font-size: 53px;
+		margin-left: -15px;
+	}
+
+	.lf-cart-licence-count {
+		font-size: 13px;
+		margin-top: -29px;
+	}
+
+	.lf-cart-count {
+		width: 22%;
+		margin-left: 40px;
+	}
+
+	.text-cart {
+		margin-left: 106px;
+		margin-top: -34px;
+	}
+
+	.cart-details-Subscribe {
+		border: none;
+	}
+
+	.lf-cart-bill {
+		font-size: 14px;
+		margin-left: -52px;
+		text-align: justify;
+		margin-top: -22px;
+	}
+
+	.lf-cart-bill-day {
+		font-size: 14px;
+		margin-left: -54px;
+		text-align: justify;
+		margin-top: -22px;
+		margin-bottom: -3px;
+	}
+
+	.lf-cart-plan {
+		margin-left: 32px;
+	}
+
+	.lf-cart-bill-plan-select {
+		font-size: 13px;
+		margin-top: 6px;
+	}
+
+	.lf-cart-bill-plan-select-radio {
+		margin-top: -14px;
+		margin-left: -69px;
+	}
+
+	.lf-cart-bill-plan-select-month {
+		margin-left: -17px;
+	}
+
+	.lf-cart-bill-plan-select-period {
+		font-size: 12px;
+		margin-top: 6px;
+	}
+
+	.lf-bill-cart-day {
+		margin-left: -114px;
+		margin-top: -20px;
+	}
+
+	.lf-bill-cart-day-select {
+		margin-top: -20px;
+	}
+
+	.payment-body {
+		width: 90%;
+	}
+
+	.payment {
+		margin-top: -64px;
+	}
+
+	.lf-cart-payment-details {
+		font-size: 27px;
+	}
+
+	.lf-cart-payment-title {
+		margin-left: -11px !important;
+		margin-bottom: -29px;
+	}
+
+	.lf-cart-wallet-wrapper {
+		left: 28px;
+	}
+
+	.lf-cart-wallet {
+		font-size: 15px;
+		margin-left: -4px;
+	}
+
+	.total-payment {
+		border: none;
+	}
+
+	.payment-price {
+		font-size: 46px;
+		left: 8px;
+		top: -11px;
+	}
+
+	.payment-rupee {
+		left: 7px;
+	}
+
+	.lf-cart-payment-wrapper {
+		margin-left: 52px;
+	}
+
+	.lf-footer-cart-info {
+		font-size: 10px;
+		margin-left: 10px;
+	}
+
+	.lf-billing-select-plan {
+		margin-left: -141px;
+	}
+
+	.notification-main {
+		// padding-bottom: 10px;
+	}
+
+	.lf-notification-main {
+		// margin-top: -3px;
+	}
+
+	.lf-img-sm-book {
+		margin-left: 296px;
+		margin-top: -28px;
+	}
+
+	.lf-notification-msg {
+		margin-top: -24px;
+	}
+
+	.lf-notification-data {
+		margin-left: 40px;
+		font-size: 14px;
+	}
+
+	.lf-notification-box:hover .lf-notification-box-setting-icon {
+		display: inline-block !important;
+		transition: 0.4s;
+		margin-left: 199px;
+		margin-top: 4px;
+	}
+
+	.topnav {
+		color: black;
+		width: 290;
+		margin-left: 20px;
+	}
+
+	/* create task */
+	.lf-related-task-info {
+		margin-left: 61px;
+		margin-top: -64px;
+	}
+
+	.lf-related-task-icon {
+		margin-top: -68px;
+	}
+
+	/* kanban css */
+	.lf-task-content-kanban-one {
+		margin-left: 57px !important;
+		margin-top: -48px !important;
+	}
+
+	.lf-task-data-img {
+		margin-top: -23px !important;
+	}
+
+	.lf-create-task-publish {
+		margin-top: -40px;
+		margin-left: -5px;
+		margin-right: -26px;
+		margin-bottom: -17px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 1040px) {
+	.lf-listsheetno {
+		position: absolute;
+		right: 50px;
+	}
+}
+@media screen and (min-width: 360px) and (max-width: 767px) {
+	.lf-listimg {
+		width: 60px;
+	}
+	.lf-listsheetno {
+		position: relative;
+		bottom: 20px;
+		right: 33px;
+	}
+	.lf-listtest-res {
+		position: relative;
+		right: 10px;
+	}
+	.lf-listmore-res {
+		position: relative;
+		top: 12px;
+		left: 3px;
+	}
+}
+/*project index res*/
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.lf-newproject-res {
+		position: relative;
+		top: 10px;
+	}
+	.lf-newprojectnm-res {
+		text-align: center;
+	}
+	.lf-newprojectdate-res {
+		position: relative;
+		left: 80px;
+	}
+	.lf-newprojectarchi-res {
+		position: relative;
+		top: 14px;
+		left: 5px;
+		float: left;
+	}
+	.lf-newsetting-res {
+		position: relative;
+		left: 20px;
+	}
+}
+@media screen and (min-width: 767px) and (max-width: 1439px) {
+	.lf-newprojectdate-res {
+		position: relative;
+		top: 10px;
+		right: 10px;
+	}
+
+	.lf-newsetting-res {
+		position: relative;
+		left: 20px;
+	}
+}
+@media screen and (min-width: 426px) and (max-width: 1023px) {
+	.lf-newprojectnm-res {
+		position: relative;
+		top: 10px;
+		bottom: 12px;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 1023px) {
+	.lf-task-iconedit {
+		position: absolute;
+		top: 17px;
+		right: 16px;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.lf-registerterms-text {
+		position: relative;
+		top: 7px;
+		right: 4px;
+	}
+	.lf-register-mterms-res {
+		position: relative;
+		text-overflow: ellipsis;
+		top: -21px;
+		left: 186px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+	.lf-registerterms-text {
+		position: relative;
+		white-space: nowrap;
+	}
+	.lf-register-mterms-res {
+		position: relative;
+		white-space: nowrap;
+		top: -10px;
+		right: 12px;
+	}
+}
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+	.lf-registerterms-text {
+		position: relative;
+		top: 7px;
+	}
+	.lf-register-mterms-res {
+		position: relative;
+		left: 190px;
+		top: -20px;
+	}
+}
+@media screen and (min-width: 540px) and (max-width: 540px) {
+	.lf-register-mterms-res {
+		position: relative;
+		top: -0px;
+		left: -0px;
+	}
+	.lf-registerterms-text {
+		position: relative;
+		top: 0px;
+		left: 4px;
+	}
+}
+@media screen and (min-width: 280px) and (max-width: 280px) {
+	.lf-register-mterms-res {
+		position: relative;
+		top: -30px;
+		left: 10px;
+	}
+}
+
+@media screen and (min-width: 240px) and (max-width: 767px) {
+	.lf-layoutdashfirst-res {
+		// display: flex;
+		// flex-direction: column
+	}
+	.lf-layoutdashfirstlogo-res {
+		position: relative;
+		left: 20px;
+		top: 10px;
+	}
+	.lf-layoutdashfirstptoject-res {
+		position: relative;
+		top: 10px;
+		left: 13px;
+	}
+	.lf-layout-profile-res {
+		position: relative;
+		left: 11px;
+	}
+}
+/*register  res end*/
+/*layout  res start*/
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	.lf-layout-profilearrow-res {
+		position: relative;
+		right: 25px;
+	}
+
+	.col-xs-50{
+		width: 50%;
+	}
+	.d-none-xs{display: none !important;}
+	.project-box .image-full{
+		max-height: 140px;
+	}
+	.field-report-toolbar{
+		padding-right: 0px !important;
+	}
+	.project-box .project-box-footer{
+		position: relative;
+	}
+
+	.project-box .project-box-details{
+		padding: 10px 10px 0px 0px !important;
+		display: flex;
+		justify-content: space-between;
+		flex-direction: column;
+	}
+
+	#sidebar-wrapper{
+		margin-left: -200px;
+	}
+	.mr-0-xs{
+		margin-right: 0 !important;
+	}
+
+	.xs-d-in-block{
+		display: inline-block;
+	}
+	
+	.xs-m-0{
+		margin: 0 !important;
+	}
+	.xs-flot-none{
+		float: none !important;
+	}
+	.lf-sheets-grid-sheetimg{
+		height: 155px;
+	}
+	.xs-ps-10{
+		padding-left: 10px;
+	}
+	.xs-text-center{
+		text-align: center;
+	}
+	.xs-text-end{
+		text-align: right;
+	}
+
+	.xs-d-block{
+		display: block !important;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 438px) {
+	.lf-layout-medium-margin-down{
+		margin-top: 40px !important;
+	}
+}
+// @media screen and (min-width: 280px) and (max-width: 280px) {
+//     .lf-layout-profilearrow-res {
+//         position: relative;
+//         right: 64px;
+//     }
+// }
+
+/*layout  res end*/
+
+/*All screen header inline responsively */
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.lf-screen-header-title-res {
+		position: relative;
+		padding: 0px;
+		top: -5px;
+		left: 15px;
+	}
+	::-webkit-scrollbar {
+		width: 0px;
+	}
+	.lf-screen-filenm-title-res {
+		padding: 0px 3px 0px 0px;
+		position: relative;
+		top: 15px;
+	}
+	.lf-sheets-filenm-title-res {
+		position: relative;
+		left: 10px;
+		top: 14px;
+	}
+	.lf-sheets-directorybtn-title-res {
+		position: relative;
+		top: 25px;
+		right: 30px;
+	}
+	.lf-sheets-header-title-res {
+		position: relative;
+		top: -47px;
+	}
+}
+
+/*Task file res start*/
+@media screen and (min-width: 360px) and (max-width: 767px) {
+	.lf-task-filenm-title-res {
+		position: relative;
+		top: 10px;
+	}
+	.lf-task-header-title-res {
+		position: relative;
+		top: -38px;
+	}
+}
+/*Task file res end*/
+/*reports file res start*/
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	.profile-list {
+		position: relative;
+		left: 30px;
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 568px) {
+	.lf-field-report-header-res {
+		display: flex;
+		flex-wrap: wrap !important;
+	}	
+}
+@media screen and (min-width: 240px) and (max-width: 319px) {
+	.lf-reports-header-smobilef {
+		width: 40%;
+	}
+
+	.lf-reports-toolbar-smobile {
+		display: flex;
+		flex-direction: row;
+		margin: 0px;
+		padding: 0px;
+	}
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+	.lf-reports-store-room-stocks-mobile {
+		position: relative;
+		top: 7px;
+		left: 30px;
+	}
+}
+/*reports file res end*/
+
+/*photos file res start*/
+@media screen and (min-width: 240px) and (max-width: 768px) {
+	.lf-photo-gridimg {
+		width: 100%;
+	}
+}
+/*photos file res end*/
+/*team file res start*/
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.lf-team-header-res {
+		// margin-top: 53px;
+	}
+}
+@media screen and (min-width: 240px) and (max-width: 280px) {
+	.lf-team-header-res {
+		// margin-top: 70px;
+	}
+}
+/*team file res end*/
+/*project file res res*/
+@media screen and (min-width: 320px) and (max-width: 767px) {
+	.lf-project-header-mobile {
+		// margin-top: 50px;
+	}
+}
+@media screen and (min-width: 240px) and (max-width: 319px) {
+	.lf-project-header-mobile {
+		// margin-top: 60px;
+	}
+}
+/*project file res end*/
+/*Tasks file res start*/
+@media screen and (min-width: 240px) and (max-width: 320px) {
+	.lf-layout-logo-mobile-size {
+		// width: 83px;
+		// height: 15px;
+		display: none;
+	}
+	.lf-tasks-smobile {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.lf-tasks-header-smobile {
+		width: 75%;
+	}
+	.lf-tasks-header-smobilef {
+		width: 25%;
+	}
+}
+@media screen and (min-width: 280px) and (max-width: 280px) {
+	.lf-layout-logo-mobile-size {
+		width: 83px;
+		height: 15px;
+	}
+}
+/*Tasks file res end*/

@@ -1,0 +1,40 @@
+.lf-main-area {
+    padding-top: 15px;
+}
+
+.lf-layout-header-mobile {
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        li {
+            display: inline-block;
+        }
+    }
+}
+
+@include media-breakpoint-up(md) {
+    .lf-layout-medium-margin-top {
+        margin-top: 38px;
+    }
+}
+@include media-breakpoint-down(md) {
+    .lf-layout-medium-margin-down {
+        margin-top: 38px;
+    }
+     .lf-layout-notification-margin-down {
+        margin-top: 40px;
+        padding-top: 20px;
+    }
+}
+
+.lf-plan-details {
+    ul {
+        list-style-type: circle;
+        li {
+            //display: inline-block;
+            margin: 8px 0px;
+        }
+    }
+}
+

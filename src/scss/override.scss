@@ -1,0 +1,80 @@
+// $theme-colors: (
+// 	'primary': $primary,
+// 	'secondary': $secondary,
+// 	'success': $success,
+// 	'info': $info,
+// 	'warning': $warning,
+// 	'danger': $danger,
+// 	'light': $light,
+// 	'dark': $dark,
+// );
+
+// Form Check component override
+
+.form-check-input {
+	width: 18px;
+	height: 18px;
+	&[type='checkbox'] {
+		border-radius: 50%;
+	}
+	&:checked {
+		color: #fff;
+		border-color: #f97316;
+		background-color: #f97316;
+	}
+}
+.theme-table {
+	tr {
+		.visible .form-check-input {
+			visibility: visible;
+		}
+		.form-check-input {
+			visibility: hidden;
+		}
+		&:hover {
+			.form-check-input {
+				visibility: visible;
+			}
+		}
+		td {
+			.invisible .form-check-input {
+				visibility: hidden;
+			}
+		}
+	}
+}
+.sheet-grid-box {
+	.visible .form-check-input {
+		visibility: visible;
+	}
+	.form-check-input {
+		visibility: hidden;
+		//display: none;
+	}
+	&:hover {
+		.form-check-input {
+			visibility: visible;
+			//display: block;
+			//z-index: 9;
+		}
+	}
+}
+.modal-1050 {
+	@include media-breakpoint-up(xl) {
+		max-width: 1050px;
+	}
+	@include media-breakpoint-up(lg) {
+		max-width: 1050px;
+	}
+	@include media-breakpoint-up(md) {
+		max-width: 1050px;
+	}
+}
+
+// Form Check component override
+
+// light box image
+
+.ReactModal__Overlay.ReactModal__Overlay--after-open {
+	z-index: 1056 !important;
+}

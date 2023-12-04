@@ -1,0 +1,103 @@
+{
+	"name": "client-app",
+	"version": "0.1.0",
+	"private": true,
+	"proxy": "https://devapi.livefield.app",
+	"dependencies": {
+		"@testing-library/jest-dom": "^5.11.4",
+		"@testing-library/react": "^11.1.0",
+		"@testing-library/user-event": "^12.1.10",
+		"axios": "^0.21.1",
+		"bootstrap": "^5.2.2",
+		"bootstrap-icons": "^1.8.1",
+		"bson": "^4.6.4",
+		"crypto": "^1.0.1",
+		"crypto-js": "^4.1.1",
+		"immutability-helper": "^3.1.1",
+		"jexcel": "^3.0.4",
+		"jspreadsheet-ce": "^4.11.1",
+		"jszip": "^3.10.0",
+		"jwt-decode": "^3.1.2",
+		"moment": "^2.29.1",
+		"moment-timezone": "^0.5.34",
+		"node-sass": "^9.0.0",
+		"prop-types": "^15.7.2",
+		"rc-tooltip": "^6.0.1",
+		"react": "^18.2.0",
+		"react-bootstrap": "^2.0.4",
+		"react-csv": "^2.2.2",
+		"react-datasheet": "^1.4.9",
+		"react-datepicker": "^4.5.0",
+		"react-dnd": "^14.0.4",
+		"react-dnd-html5-backend": "^14.0.2",
+		"react-dom": "^18.2.0",
+		"react-dropzone": "^12.0.4",
+		"react-google-charts": "^4.0.0",
+		"react-helmet": "^6.1.0",
+		"react-image-crop": "8.6.12",
+		"react-image-lightbox": "^5.1.4",
+		"react-jwt": "^1.1.6",
+		"react-quill": "^0.0.2",
+		"react-redux": "^7.2.4",
+		"react-router": "^6.3.0",
+		"react-router-dom": "^6.3.0",
+		"react-scripts": "^4.0.3",
+		"react-select": "^4.3.1",
+		"react-signature-canvas": "^1.0.3",
+		"react-spreadsheet": "^0.6.2",
+		"react-tagsinput": "^3.19.0",
+		"react-textarea-autosize": "^8.4.0",
+		"react-toastify": "^8.1.0",
+		"react-tooltip": "^5.7.5",
+		"redux": "^4.1.0",
+		"redux-thunk": "^2.3.0",
+		"sass": "^1.63.6",
+		"scheduler": "^0.23.0",
+		"socket.io-client": "^4.4.0",
+		"sweetalert2": "^11.4.8",
+		"sweetalert2-react-content": "^4.2.0",
+		"web-vitals": "^1.0.1"
+	},
+	"scripts": {
+		"start": "react-scripts --openssl-legacy-provider start",
+		"build": "GENERATE_SOURCEMAP=false && react-scripts --openssl-legacy-provider build",
+		"winBuild": "set \"GENERATE_SOURCEMAP=false\" && react-scripts --openssl-legacy-provider build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject",
+		"prepare": "husky install"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged"
+		}
+	},
+	"lint-staged": {
+		"src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+			"prettier --write"
+		]
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"husky": "^8.0.0",
+		"lint-staged": "^13.2.1",
+		"prettier": "^2.6.2",
+		"pretty-quick": "^3.1.3"
+	}
+}

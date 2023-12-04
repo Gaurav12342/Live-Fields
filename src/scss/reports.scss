@@ -1,0 +1,43 @@
+.lf-report-header-sec {
+	border-radius: 5px;
+	margin-top: auto;
+}
+.lf-report-header {
+	position: -webkit-sticky;
+	position: sticky;
+	display: flex;
+	word-wrap: break-word;
+	border-radius: 5px;
+	z-index: 1;
+	top: 0px;
+	flex-direction: column;
+}
+
+.lf-dropdown-color {
+	color: #fff;
+}
+
+.lf-storeroom-header-list {
+	height: 70px;
+	border: 1px solid black;
+}
+
+.lf-store-assignee-img-text {
+	height: 40px;
+}
+
+.lf-store-info-detail {
+	height: 70px;
+	overflow-x: auto;
+}
+
+.lf-store-Issue-btn {
+	// font-size: 13px;
+	width: fit-content;
+}
+.lf-reports-icon-parent {
+	width: 10px !important;
+	.react-datepicker__input-container {
+		width: 10px !important;
+	}
+}

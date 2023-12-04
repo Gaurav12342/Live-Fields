@@ -1,0 +1,3847 @@
+{
+	"task": {
+		"update": {
+			"start_end_date": {
+				"text": "Start and End Date"
+			},
+			"status": {
+				"label": "Status",
+				"placeholder": "Select Status"
+			},
+			"btn_create_task": {
+				"text": "New Task",
+				"tooltip": "Create Task",
+				"tooltip_flow": "down"
+			},
+			"btn_kanban": {
+				"tooltip": "Kanban View",
+				"tooltip_flow": "down"
+			},
+			"btn_list": {
+				"tooltip": "List View",
+				"tooltip_flow": "down"
+			},
+			"btn_board": {
+				"tooltip": "Board View",
+				"tooltip_flow": "left"
+			},
+			"btn_export": {
+				"text": "Export",
+				"tooltip": "Export Task",
+				"tooltip_flow": "down"
+			},
+			"btn_import": {
+				"text": "Import",
+				"tooltip": "Import Task",
+				"tooltip_flow": "down"
+			},
+			"btn_filter": {
+				"text": "Filter",
+				"tooltip": "Filter Task",
+				"tooltip_flow": "down"
+			},
+			"icon_copy": {
+				"tooltip": "Duplicate Task",
+				"tooltip_flow": "down"
+			},
+			"category": {
+				"text": "Category"
+			},
+			"task_no": {
+				"text": "Task No"
+			},
+			"title": {
+				"text": "Title"
+			},
+			"statusbar": {
+				"text": "Status"
+			},
+			"assigee": {
+				"text": "Assignee"
+			},
+			"location": {
+				"text": "Location"
+			},
+			"sheets": {
+				"text": "Sheets"
+			},
+			"action": {
+				"text": "Action"
+			},
+			"new_task": {
+				"text": " New Task"
+			},
+			"add_task": {
+				"text": "+ Add Task"
+			},
+			"add_location": {
+				"text": "Add Location"
+			},
+			"add": {
+				"text": "Add"
+			},
+			"addText": {
+				"text": "Add"
+			},
+			"add_related_task": {
+				"text": "Add Related Task"
+			},
+			"task_list": {
+				"text": "Task List"
+			},
+			"add_related_task_btn": {
+				"text": "+ Add Related Task"
+			},
+			"add_plan": {
+				"text": "Add Sheet"
+			},
+			"add_tag": {
+				"text": "Add Tag"
+			},
+			"plan_name": {
+				"text": "Plan Name"
+			},
+			"sheet_no ": {
+				"text": "Sheet No "
+			},
+			"add_file": {
+				"text": "Add File"
+			},
+			"new_task_btn": {
+				"text": "New Task"
+			},
+			"add_task_btn": {
+				"text": "Add Task"
+			},
+			"create_task": {
+				"text": "Create Task"
+			},
+			"status_name": {
+				"text": "Status"
+			},
+			"filter_task": {
+				"text": "Filter Task"
+			},
+			"view_archive_task": {
+				"text": "View Archive Task"
+			},
+			"all_task": {
+				"text": "All Task"
+			},
+			"my_task": {
+				"text": "My Task"
+			},
+			"unpublished_task": {
+				"text": "Unpublished Task"
+			},
+			"cancel": {
+				"text": "Cancel"
+			},
+			"save": {
+				"text": "Save"
+			},
+			"related_task": {
+				"text": "Related Task"
+			},
+			"clear_all": {
+				"text": "Clear All"
+			},
+			"delink": {
+				"text": "Delink"
+			},
+			"checklist": {
+				"text": "Checklist"
+			},
+			"add_checklist": {
+				"text": "Add Checklist"
+			},
+			"use_template": {
+				"text": "Use Template"
+			},
+			"created_by": {
+				"text": "Created By"
+			},
+			"on": {
+				"text": "On"
+			},
+			"sheets_n": {
+				"text": "Sheets"
+			},
+			"task": {
+				"text": "Task"
+			},
+			"issue": {
+				"text": "Issue"
+			},
+			"raise_issue": {
+				"text": "Raise Issue"
+			},
+			"deleteText": {
+				"text": "Delete"
+			},
+			"createIssueText": {
+				"text": "Create Issue"
+			},
+			"issueNo": {
+				"text": "Issue No"
+			},
+			"created_date": {
+				"text": "Created Date"
+			},
+			"created_at": {
+				"text": "Created At"
+			},
+			"filter_photo": {
+				"text": "Filter Photos"
+			},
+			"sort_by": {
+				"text": "Sort By"
+			},
+			"sort_task": {
+				"text": "Sort Task"
+			}
+		}
+	},
+	"sheet": {
+		"update_tags": {
+			"text": "Update Tags"
+		},
+		"toolbar": {
+			"btn_create_sheet": {
+				"text": "Add Sheet",
+				"tooltip": "Add Sheet",
+				"tooltip_flow": "down"
+			},
+			"btn_create_dir": {
+				"text": "folder",
+				"tooltip": "Create Folder",
+				"tooltip_flow": "down"
+			},
+			"delete_text": {
+				"text": "Please Select Checkbox!"
+			},
+			"btn_grid": {
+				"tooltip": "Grid View",
+				"tooltip_flow": "down"
+			},
+			"btn_list": {
+				"tooltip": "List View",
+				"tooltip_flow": "down"
+			},
+			"sheet_history": {
+				"tooltip": "Recently Viewed",
+				"tooltip_flow": "down"
+			},
+			"share_files": {
+				"text": "Share Files"
+			},
+			"icon_move": {
+				"text": "Move",
+				"tooltip": "Move"
+			},
+			"icon_share": {
+				"tooltip": "Share Sheet",
+				"tooltip_flow": "down"
+			},
+			"icon_info": {
+				"tooltip": "Info",
+				"tooltip_flow": "left",
+				"tooltip_down": "down"
+			},
+			"btn_add_sheet": {
+				"text": "Sheet",
+				"tooltip": "Add Sheet",
+				"tooltip_flow": "down"
+			},
+			"update_directory": {
+				"text": "Rename Folder",
+				"tooltip": "Rename folder",
+				"tooltip_flow": "down"
+			},
+			"icon_delete": {
+				"tooltip": "Delete",
+				"tooltip_flow": "left"
+			},
+			"btn_new_paln": {
+				"text": "+ Add Sheet",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"btn_add_photo": {
+				"text": "+ Add Photo",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"btn_sheet_revision": {
+				"text": "Sheet Revisions",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"btn_add_related_sheet": {
+				"text": "Add Related Sheet",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"btn_add_task": {
+				"text": "Add Task",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"btn_add_file": {
+				"text": "Add File",
+				"tooltip": "null",
+				"tooltip_flow": "down"
+			},
+			"sheet_share": {
+				"tooltip": "Share Sheet",
+				"tooltip_flow": "left"
+			},
+			"sheet_move": {
+				"tooltip": "Move Sheet",
+				"tooltip_flow": "left",
+				"tooltip_down": "down"
+			},
+			"sheet_delete": {
+				"tooltip": "Delete Sheet",
+				"tooltip_flow": "left"
+			},
+			"delete_directory": {
+				"tooltip": "Delete folder",
+				"tooltip_flow": "down"
+			},
+			"sheets_name": {
+				"text": "Sheets Name"
+			},
+			"revision": {
+				"text": "Revision"
+			},
+			"task": {
+				"text": "Tasks"
+			},
+			"file": {
+				"text": "File"
+			},
+			"tags": {
+				"text": "Tags"
+			},
+			"no_sheets_available": {
+				"text": "No Sheets available"
+			},
+			"save": {
+				"text": "Save"
+			}
+		},
+		"directory_name_modal": {
+			"text": "Folder Name"
+		},
+		"createplan": {
+			"select_directory": {
+				"text": "Select folder"
+			},
+			"choose_folder": {
+				"text": "Upload Sheet"
+			},
+			"add_plan": {
+				"text": "Add Sheet"
+			}
+		},
+		"directory_name": {
+			"text": "Folder Name"
+		},
+		"sheet_no": {
+			"text": "Sheet No."
+		},
+		"tage": {
+			"text": "Tags"
+		},
+		"recent_sheets": {
+			"text": "Recent Sheets"
+		},
+		"directory": {
+			"text": "Folder"
+		},
+		"create_directory": {
+			"text": "Create Folder"
+		},
+		"move_plans": {
+			"text": "Move Sheets"
+		},
+		"move_To": {
+			"text": "Move To"
+		},
+		"sheet_list": {
+			"text": "Sheet List"
+		},
+		"revisons": {
+			"text": "Revisons"
+		},
+		"sheetsfilter": {
+			"filter_sheets": {
+				"text": "Filter Sheets"
+			},
+			"enter_tags": {
+				"text": "Enter Tags"
+			},
+			"filter": {
+				"text": "Filter"
+			},
+			"apply": {
+				"text": "Apply"
+			},
+			"clear": {
+				"text": "Clear"
+			}
+		},
+		"sheetinfo": {
+			"plan_setting": {
+				"text": "Sheet Info"
+			},
+			"version": {
+				"text": "Version"
+			},
+			"save": {
+				"text": "Save"
+			}
+		},
+		"photogallarysheets": {
+			"sheets_photos": {
+				"text": "Sheets Photos"
+			},
+			"back": {
+				"text": "Back"
+			}
+		},
+		"createtag": {
+			"add_tag": {
+				"text": "Add Tag"
+			},
+			"tag_name": {
+				"text": ""
+			},
+			"add_tag_btn": {
+				"text": "Add Tag"
+			}
+		},
+		"addsheetsphotos": {
+			"add_photo": {
+				"text": "Add Photo"
+			},
+			"description": {
+				"text": "Description"
+			},
+			"upload_file": {
+				"text": "Upload file"
+			},
+			"": {
+				"text": ""
+			}
+		},
+		"addrevision": {
+			"add_revision": {
+				"text": "Add Revision"
+			}
+		},
+		"addrelatedsheet": {
+			"add_related_sheet": {
+				"text": "Add Related Sheet"
+			},
+			"add_related_sheet_btn": {
+				"text": "Add Related Plan"
+			}
+		},
+		"addrelatedfile": {
+			"add_related_file": {
+				"text": "Add Related File"
+			},
+			"file_list": {
+				"text": "File List"
+			},
+			"add_related_file_btn": {
+				"text": "Add Related File"
+			}
+		},
+		"components": {
+			"tagsfilter": {
+				"filter_by_tags": {
+					"text": "Filter"
+				}
+			}
+		}
+	},
+	"commons": {
+		"sort_by": {
+			"tooltip": "Sort By",
+			"tooltip_flow": "down"
+		},
+		"sort_default": {
+			"text": "Sort : Default"
+		},
+		"name_a": {
+			"text": "Name : A"
+		},
+		"z": {
+			"text": "Z"
+		},
+		"name_z": {
+			"text": "Name : Z"
+		},
+		"a": {
+			"text": "A"
+		},
+		"date_new": {
+			"text": "Date : New"
+		},
+		"old": {
+			"text": "Old"
+		},
+		"date_old": {
+			"text": "Date : Old"
+		},
+		"new_n": {
+			"text": "New"
+		},
+		"icon_delete": {
+			"text": "Delete",
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"dashboard": {
+			"text": "Dashboard"
+		},
+		"email": {
+			"text": "Email"
+		},
+		"ph_email": {
+			"text": "Email"
+		},
+		"action": {
+			"text": "Action"
+		},
+		"start_date": {
+			"text": "Start Date"
+		},
+		"end_date": {
+			"text": "End Date"
+		},
+		"location": {
+			"text": "Location"
+		},
+		"description": {
+			"text": "Description"
+		},
+		"nos": {
+			"text": "Nos."
+		},
+		"ph_nos": {
+			"text": "Enter Nos."
+		},
+		"hours": {
+			"text": "Hours"
+		},
+		"ph_hours": {
+			"text": "Enter Hours"
+		},
+		"minutes": {
+			"text": "Minutes"
+		},
+		"ph_minutes": {
+			"text": "Enter minutes"
+		},
+		"total_hours": {
+			"text": "Total Hours"
+		},
+		"notes": {
+			"text": "Notes"
+		},
+		"ph_notes": {
+			"text": "Enter notes"
+		},
+		"icon_edit": {
+			"text": "Edit",
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_select": {
+			"text": "Select",
+			"tooltip": "Select",
+			"tooltip_flow": "left"
+		},
+		"icon_save": {
+			"text": "Save",
+			"tooltip": "Save",
+			"tooltip_flow": "left"
+		},
+		"submit": {
+			"text": "Submit"
+		},
+		"info": {
+			"text": "Info"
+		},
+		"name": {
+			"text": "Name"
+		},
+		"ph_name": {
+			"text": "Enter Name"
+		},
+		"frequency_name": {
+			"text": "Frequency"
+		},
+		"assignee_name": {
+			"text": "Assignee"
+		},
+		"next_btn": {
+			"text": "Next"
+		},
+		"location_name": {
+			"text": "Location"
+		},
+		"ph_SelectLocation": {
+			"text": "Select Location..."
+		},
+
+		"create": {
+			"text": "Create"
+		},
+		"import_template": {
+			"text": "Import",
+			"tooltip": "Import Template",
+			"tooltip_flow": "right"
+		},
+		"quantity": {
+			"text": "Quantity"
+		},
+		"ph_quantity": {
+			"text": "Enter Quantity"
+		},
+		"nos_text": {
+			"text": "Nos"
+		},
+		"share_files": {
+			"text": "Share Files"
+		},
+		"new_directory": {
+			"text": "New Directory"
+		},
+		"are_you_sure": {
+			"text": "Are you sure?"
+		},
+		"you_won_t_to_be": {
+			"text": "Do you want to"
+		},
+		"category_name": {
+			"text": "Category"
+		},
+		"types_of_task": {
+			"text": "Types of Task"
+		},
+		"types_of_work": {
+			"text": "Types of Work"
+		},
+		"date": {
+			"text": "Date"
+		},
+		"manpower": {
+			"text": "Manpower"
+		},
+		"cost": {
+			"text": "Cost"
+		},
+		"sheets_name": {
+			"text": "Sheets"
+		},
+		"watcher": {
+			"text": "Watcher"
+		},
+		"tags_name": {
+			"text": "Tags"
+		},
+		"upload_file": {
+			"text": "upload file"
+		},
+		"no_files_available": {
+			"text": "No Files available"
+		},
+		"all_task": {
+			"text": "All Task"
+		},
+		"create_plan": {
+			"text": "+ create plan"
+		},
+		"cancel": {
+			"text": "Cancel"
+		},
+		"select": {
+			"text": "Select"
+		},
+		"delink": {
+			"text": "Delink"
+		},
+		"save": {
+			"text": "Save"
+		},
+		"edit": {
+			"text": "Edit"
+		},
+		"close": {
+			"text": "Close"
+		},
+		"search": {
+			"text": "Search"
+		},
+		"from_date": {
+			"text": "From Date"
+		},
+		"to_date": {
+			"text": "To Date"
+		},
+		"month": {
+			"text": "Month"
+		},
+		"year": {
+			"text": "Year"
+		},
+		"support": {
+			"text": "Support"
+		},
+		"FAQ": {
+			"text": "FAQ"
+		},
+		"call": {
+			"text": "Call"
+		},
+		"publish": {
+			"text": "Publish"
+		},
+		"unpublish": {
+			"text": "Unpublish"
+		},
+		"comments": {
+			"text": "Comments"
+		},
+		"total_work": {
+			"text": "Total Work"
+		},
+		"word_done": {
+			"text": "Word Done"
+		}
+	},
+	"files": {
+		"btn_create_file": {
+			"text": "Add File",
+			"tooltip": "Create File",
+			"tooltip_flow": "down"
+		},
+		"btn_create_directory": {
+			"text": "Folder",
+			"tooltip": "Create folder",
+			"tooltip_flow": "down"
+		},
+		"icon_rename": {
+			"tooltip": "Rename",
+			"tooltip_flow": "down"
+		},
+		"icon_add_file": {
+			"tooltip": "Add File",
+			"tooltip_flow": "down"
+		},
+		"icon_delete": {
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"share_file": {
+			"tooltip": "Share File",
+			"tooltip_flow": "down"
+		},
+		"move_file": {
+			"tooltip": "Move File",
+			"tooltip_flow": "down"
+		},
+		"edit_file_name": {
+			"tooltip": "Edit File Name",
+			"tooltip_flow": "left"
+		},
+		"delete_file": {
+			"tooltip": "Delete File ",
+			"tooltip_flow": "left"
+		},
+		"file_name": {
+			"text": "File Name"
+		},
+		"ph_file_name": {
+			"text": "Enter Name"
+		},
+		"uploaded_by": {
+			"text": "Uploaded By"
+		},
+		"uploaded_date": {
+			"text": "Uploaded Date"
+		},
+		"select_directory": {
+			"text": "Select folder"
+		},
+		"ph_select_directory": {
+			"text": "Select folder"
+		},
+		"directory_name": {
+			"text": "Folder Name"
+		},
+		"ph_directory_name": {
+			"text": "Folder Name"
+		},
+		"file_directory_name": {
+			"text": "Folder Name"
+		},
+		"ph_file_directory_name": {
+			"text": "Name"
+		},
+		"update_file_name": {
+			"text": "Rename File Name"
+		},
+		"move_to": {
+			"text": "Move To"
+		},
+		"move": {
+			"text": "Move"
+		},
+		"add_file": {
+			"text": "Upload"
+		},
+		"create_directory": {
+			"text": "Create Folder"
+		},
+		"update_file_directory": {
+			"text": "Rename Folder"
+		},
+		"move_files": {
+			"text": "Move Files"
+		}
+	},
+	"RFIs": {
+		"btn_rfis": {
+			"text": "Create RFIs",
+			"tooltip": "Create RFIs",
+			"tooltip_flow": "down"
+		},
+		"select_sheet": {
+			"text": "Select Sheet"
+		},
+		"save_rfis": {
+			"text": "Save",
+			"tooltip": "Save RFIs",
+			"tooltip_flow": "down"
+		},
+		"discard_rfis": {
+			"text": "Discard",
+			"tooltip": "Discard RFIs",
+			"tooltip_flow": "down"
+		},
+		"attributes": {
+			"text": "Attributes"
+		},
+		"RFIs_name": {
+			"text": "RFIs Name"
+		},
+		"watchers": {
+			"text": "Watchers"
+		},
+		"answer": {
+			"text": "Answer"
+		},
+		"RFI_no": {
+			"text": "RFI No"
+		},
+		"sheet_no": {
+			"text": "Sheet No"
+		}
+	},
+	"people": {
+		"btn_invite_people": {
+			"text": "Invite People",
+			"tooltip": "Invite People",
+			"tooltip_flow": "down"
+		},
+		"btn_manage": {
+			"text": "Manage Role",
+			"tooltip": "Manage Role",
+			"tooltip_flow": "left"
+		},
+		"role_list": {
+			"text": "Manage Role"
+		},
+		"icon_edit": {
+			"tooltip": "Edit",
+			"tooltip_flow": "down"
+		},
+		"icon_delete": {
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"icon_edit_manage": {
+			"tooltip": "Edit Name",
+			"tooltip_flow": "down"
+		},
+		"icon_delete_manage": {
+			"tooltip": "Delete Role",
+			"tooltip_flow": "down"
+		},
+		"create_role": {
+			"text": "Create Role",
+			"tooltip": "Create Role",
+			"tooltip_flow": "down"
+		},
+		"no_user": {
+			"text": "Role isn't assigned to anyone",
+			"tooltip": "null",
+			"tooltip_flow": "null"
+		},
+		"email": {
+			"text": "Email"
+		},
+		"user_role": {
+			"text": "User Role"
+		},
+		"new_role": {
+			"text": "+ New role"
+		},
+		"create_role_btn": {
+			"text": "Create Role"
+		},
+		"role_name": {
+			"text": "Role Name"
+		},
+		"Role_management": {
+			"text": "Role - management"
+		},
+		"people": {
+			"text": "people"
+		},
+		"Role_management_d": {
+			"text": "Role management"
+		},
+		"dashboard": {
+			"text": "Dashboard"
+		},
+		"access_key_name": {
+			"text": "Access Key name"
+		},
+		"role_access": {
+			"text": "Role - Access"
+		},
+		"role_access_d": {
+			"text": "Role Access"
+		},
+		"export_list": {
+			"text": "Export List"
+		},
+		"save": {
+			"text": " Save"
+		},
+		"invite_user": {
+			"text": "Invite User"
+		},
+		"change_user_role": {
+			"text": "Change User Role"
+		},
+		"enter_email": {
+			"text": "Type EMail and press enter to add another. Invite upto 2"
+		},
+		"invite": {
+			"text": "Invite"
+		},
+		"update_role": {
+			"text": "Update Role"
+		}
+	},
+	"project_tamplate": {
+		"btn_template": {
+			"text": "Checklist",
+			"tooltip": "Add Checklist",
+			"tooltip_flow": "down"
+		},
+		"new_template": {
+			"text": "Add Checklist",
+			"tooltip": "Add Checklist",
+			"tooltip_flow": "down"
+		},
+		"btn_Checklist": {
+			"text": "Checkitem",
+			"tooltip": "Add Checkitem",
+			"tooltip_flow": "down"
+		},
+		"edit_template": {
+			"tooltip": "Edit Checklist",
+			"tooltip_flow": "left"
+		},
+		"delete_tamplate": {
+			"tooltip": "Delete Checklist",
+			"tooltip_flow": "left"
+		},
+		"edit_chacklist": {
+			"tooltip": "Edit Checkitem",
+			"tooltip_flow": "left"
+		},
+		"delete_chacklist": {
+			"tooltip": "Delete Checkitem",
+			"tooltip_flow": "left"
+		},
+		"no_checklist_available": {
+			"text": "No Check item Available",
+			"tooltip": "null",
+			"tooltip_flow": "null"
+		},
+		"template_name": {
+			"text": "Checklist Name"
+		},
+		"checklist_title": {
+			"text": "Checklist Title"
+		},
+		"admin_template_checklist": {
+			"text": "Admin template checklist"
+		},
+		"create_template": {
+			"text": "Create Template"
+		},
+		"create_checklist": {
+			"text": "Create Checklist"
+		},
+		"create_checklist_btn": {
+			"text": "+ Create Checklist"
+		},
+		"update_template": {
+			"text": "Update Template"
+		},
+		"update_template_btn": {
+			"text": " Update Template"
+		},
+		"update_checklist": {
+			"text": "Update Checklist"
+		}
+	},
+	"reports": {
+		"toolbar": {
+			"btn_create_reports": {
+				"text": "Create Report",
+				"tooltip": "Create Report",
+				"tooltip_flow": "left"
+			},
+			"survey_report": {
+				"text": "Survey Report",
+				"tooltip": "Survey Report",
+				"tooltip_flow": "null"
+			},
+			"storeroom": {
+				"text": "Storeroom",
+				"tooltip": "Storeroom",
+				"tooltip_flow": "null"
+			},
+			"material_log": {
+				"text": "Material Log",
+				"tooltip": "Material Log",
+				"tooltip_flow": "null"
+			},
+			"Labour_Equipment": {
+				"text": "Labour & Equipment Log",
+				"tooltip": "Labour & Equipment log",
+				"tooltip_flow": "null"
+			},
+			"calender": {
+				"tooltip": "Calender",
+				"tooltip_flow": "down"
+			},
+			"download": {
+				"text": "Download",
+				"tooltip": "Download",
+				"tooltip_flow": "down"
+			},
+			"unlock": {
+				"text": "Unlock",
+				"tooltip": "Unlock",
+				"tooltip_flow": "down"
+			},
+			"icon_edit": {
+				"tooltip": "Edit",
+				"tooltip_flow": "down"
+			},
+			"icon_delete": {
+				"tooltip": "Delete",
+				"tooltip_flow": "left"
+			},
+			"cancel": {
+				"text": "Cancel",
+				"tooltip": "Cancel",
+				"tooltip_flow": "down"
+			},
+			"discard": {
+				"text": "Discard",
+				"tooltip": "Discard",
+				"tooltip_flow": "down"
+			},
+			"submit": {
+				"text": "Submit",
+				"tooltip": "Submit",
+				"tooltip_flow": "down"
+			},
+			"info": {
+				"text": "Info",
+				"tooltip": "Info",
+				"tooltip_flow": "down"
+			},
+			"description": {
+				"text": "Description"
+			},
+			"ph_description": {
+				"text": "Enter Description"
+			},
+			"assigee": {
+				"text": " Assignee"
+			},
+			"created_by": {
+				"text": "Created By"
+			},
+			"frequency": {
+				"text": "Frequency"
+			},
+			"survey_observations": {
+				"text": "Survey Report"
+			},
+			"sn": {
+				"text": "Sr."
+			},
+			"question": {
+				"text": "Questions"
+			},
+			"yes": {
+				"text": "Yes"
+			},
+			"no": {
+				"text": "No"
+			},
+			"na": {
+				"text": "N/A"
+			},
+			"notes": {
+				"text": "Notes"
+			},
+			"Photos": {
+				"text": "Photos"
+			},
+			"labour_equipment_log": {
+				"text": "Labour & Equipment Log"
+			},
+			"store": {
+				"text": "store"
+			},
+			"project_name": {
+				"text": "Project Name"
+			},
+			"created_at": {
+				"text": "Created At"
+			},
+			"update_report": {
+				"text": " + Update Report"
+			},
+			"back": {
+				"text": "Back"
+			},
+			"report_signature": {
+				"text": "Report Signature"
+			},
+			"sign_report": {
+				"text": "Sign Report"
+			},
+			"save": {
+				"text": "Save"
+			},
+			"clear_sign": {
+				"text": "Clear"
+			},
+			"sign": {
+				"text": "Sign"
+			},
+			"generate_progress_report": {
+				"text": "Generate Progress Report"
+			},
+			"today": {
+				"text": "Today"
+			},
+			"days": {
+				"text": "Days"
+			},
+			"specific_data": {
+				"text": "Specific Date"
+			},
+			"work_progress": {
+				"text": "Work Progress"
+			},
+			"issue_raised": {
+				"text": "Issues Raised"
+			},
+			"store_room_details": {
+				"text": "Store Room Details"
+			},
+			"material_log_details": {
+				"text": "Material Log Details"
+			},
+			"generate": {
+				"text": "Generate"
+			},
+			"attachment": {
+				"text": "Attachment"
+			},
+			"add_row": {
+				"text": "Add Row"
+			}
+		},
+		"components": {
+			"createsurveyreport": {
+				"survey_report": {
+					"text": "Survey Report"
+				},
+				"location_name": {
+					"text": "Location"
+				},
+				"question": {
+					"text": "Questions"
+				},
+				"generate_report": {
+					"text": "+ Generate Report"
+				},
+				"back": {
+					"text": "Back"
+				},
+				"checklist_items": {
+					"text": "Checklist items"
+				}
+			},
+			"fieldreportinfo": {
+				"general_notes": {
+					"text": "General Notes"
+				},
+				"attachement": {
+					"text": "Attachement"
+				},
+				"signed_by": {
+					"text": "Signed By"
+				},
+				"survey_questions": {
+					"text": "Survey Questions"
+				}
+			},
+			"updatesurveyreport": {
+				"questions": {
+					"text": "Questions"
+				},
+				"name": {
+					"text": "Name"
+				},
+				"frequency_name": {
+					"text": "Frequency"
+				},
+				"assignee_name": {
+					"text": "Assignee"
+				},
+				"ph_SelectAssignee": {
+					"text": "Select Assignee..."
+				},
+				"use_template": { "text": "use template" }
+			},
+			"downlodreport": {
+				"select_date": {
+					"text": "Choose Date"
+				}
+			}
+		}
+	},
+	"projects": {
+		"sort_by": {
+			"tooltip": "Sort By",
+			"tooltip_flow": "right"
+		},
+		"btn_creat_archive": {
+			"text": "Archived",
+			"tooltip": "Archived Project",
+			"tooltip_flow": "down"
+		},
+		"btn_new_project": {
+			"text": "Create Project",
+			"tooltip": "Create Project",
+			"tooltip_flow": "down"
+		},
+		"team": {
+			"tooltip": "Team",
+			"tooltip_flow": "up"
+		},
+		"role": {
+			"tooltip": "Role",
+			"tooltip_flow": "down"
+		},
+		"sheet": {
+			"tooltip": "Sheet",
+			"tooltip_flow": "up"
+		},
+		"project_name": {
+			"text": "Project Name"
+		},
+		"project_code": {
+			"text": "Project Code"
+		},
+		"new_project": {
+			"text": "+ New Project"
+		},
+		"my_projects": {
+			"text": "My projects"
+		},
+		"setting": {
+			"text": "Setting"
+		},
+		"admin": {
+			"text": "Admin"
+		},
+		"project_setting": {
+			"text": "Project Details"
+		},
+		"leave_project": {
+			"text": "Leave Project"
+		},
+		"delete_project": {
+			"text": "Delete Project"
+		},
+		"add_new_project": {
+			"text": "Create Project"
+		},
+		"create_project": {
+			"text": "Create Project"
+		},
+		"archive_project": {
+			"text": "Archive Project"
+		},
+		"unarchive_project": {
+			"text": "Unarchive Project"
+		},
+		"archive": {
+			"text": "Archive"
+		},
+		"project_text": {
+			"text": "Project"
+		},
+		"leave": {
+			"text": "Leave"
+		}
+	},
+	"team": {
+		"btn_invite_people": {
+			"text": "Invite People",
+			"tooltip": "Invite People",
+			"tooltip_flow": "down"
+		},
+		"btn_export": {
+			"text": "Export",
+			"tooltip": "Export",
+			"tooltip_flow": "down"
+		},
+		"insert_email": {
+			"text": "Enter Email"
+		},
+		"role": {
+			"text": "Assign Role"
+		},
+		"user_role": {
+			"text": "User Role"
+		},
+		"rolelist": {
+			"new_role": {
+				"text": " + New role"
+			},
+			"user_role": {
+				"text": "User Role"
+			},
+			"role_management": {
+				"text": "Role - management"
+			},
+			"dashboard": {
+				"text": "Dashboard"
+			},
+			"people": {
+				"text": "people"
+			},
+			"create_Role": {
+				"text": "+ Create Role"
+			},
+			"invite_people": {
+				"text": " + invite people"
+			},
+			"email": {
+				"text": "Email"
+			},
+			"Create_Role_n": {
+				"text": "Create Role"
+			},
+			"role_name": {
+				"text": "Role Name"
+			},
+			"select_role": {
+				"text": "select role"
+			}
+		},
+		"index": {
+			"you_do_not": {
+				"text": "You do not have enough licenses. Please purchase the required licenses to add or invite people."
+			},
+			"type_email_and_press": {
+				"text": "Type Email and press enter to add another. Invite user upto"
+			},
+			"select_role": {
+				"text": "Select role"
+			},
+			"invite_users": {
+				"text": "Invite People"
+			},
+			"guest_users": {
+				"text": "Guest Users"
+			},
+			"buy_now": {
+				"text": "Buy Now"
+			},
+			"to_the_account": {
+				"text": "To The Account"
+			},
+			"to_project": {
+				"text": "To a Project"
+			},
+			"insert_email_mobile": {
+				"text": "Insert Email/Mobile"
+			}
+		},
+		"createrole": {
+			"role_management": {
+				"text": "Role - management"
+			},
+			"dashboard": {
+				"text": "Dashboard"
+			},
+			"people": {
+				"text": "people"
+			},
+			"export_list": {
+				"text": "Export List"
+			},
+			"role_name": {
+				"text": "Role Name"
+			},
+			"create_Role": {
+				"text": "+ Create Role"
+			}
+		}
+	},
+	"layout": {
+		"icon_notification": {
+			"tooltip": "Notification",
+			"tooltip_flow": "down"
+		},
+		"icon_licence": {
+			"tooltip": "Subscription",
+			"tooltip_flow": "down"
+		}
+	},
+	"photos": {
+		"btn_photo": {
+			"text": "Add Photo",
+			"tooltip": "Add photo",
+			"tooltip_flow": "down"
+		},
+		"edit_photos": {
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_delete": {
+			"text": "Delete",
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"title": {
+			"text": "Title"
+		},
+		"photos": {
+			"text": "Photos"
+		},
+		"edit_photo": {
+			"text": "Update Details"
+		},
+		"upload_file": {
+			"text": "upload file"
+		},
+		"uploadprojectphoto": {
+			"add_photo": {
+				"text": "Add Photo"
+			},
+			"upload_file": {
+				"text": "upload file"
+			},
+			"title": {
+				"text": "Title"
+			},
+			"description": {
+				"text": "Description"
+			}
+		},
+		"failed_to_update_tags_photo": {
+			"text": "Failed to update tags in photos"
+		}
+	},
+	"meeting": {
+		"btn_meeting": {
+			"text": "Create Meeting",
+			"tooltip": "Create Meeting",
+			"tooltip_flow": "down"
+		},
+		"btn_point": {
+			"text": "Point",
+			"tooltip": "Add Point",
+			"tooltip_flow": "down"
+		},
+		"icon_delete": {
+			"tooltip": "Delete Meeting",
+			"tooltip_flow": "left"
+		},
+		"icon_edit": {
+			"tooltip": "Edit Meeting",
+			"tooltip_flow": "down"
+		},
+		"invite_people": {
+			"tooltip": "Invite People",
+			"tooltip_flow": "down"
+		},
+		"sub_point": {
+			"text": "Sub Point",
+			"tooltip": "Add Sub-Point",
+			"tooltip_flow": "down"
+		},
+		"delete_point": {
+			"tooltip": "Delete Point",
+			"tooltip_flow": "left"
+		},
+		"add_point": {
+			"tooltip": " Edit Point",
+			"tooltip_flow": "down"
+		},
+		"no_point": {
+			"text": "No Point available",
+			"tooltip": "null",
+			"tooltip_flow": "null"
+		},
+		"components": {
+			"title": {
+				"text": "Title"
+			},
+			"meeting_number": {
+				"text": "Meeting Number"
+			},
+			"meeting_name": {
+				"text": "Meeting Name"
+			},
+			"agenda": {
+				"text": "Agenda"
+			},
+			"venue": {
+				"text": "Venue"
+			},
+			"notes": {
+				"text": "Notes"
+			},
+			"date_of_meeting": {
+				"text": "Date Of Meeting"
+			},
+			"start_time": {
+				"text": "Start Time"
+			},
+			"end_time": {
+				"text": "End Time"
+			},
+			"meeting_responsibility": {
+				"text": "Meeting Responsibility"
+			},
+			"create_meeting": {
+				"text": "Create Meeting"
+			},
+			"create_point": {
+				"text": "Create Point"
+			},
+			"update_meeting": {
+				"text": "Update Meeting"
+			},
+			"no_people_available": {
+				"text": "No People available "
+			}
+		}
+	},
+	"setting": {
+		"icon_edit": {
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_delete": {
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"add_category": {
+			"text": " Add",
+			"tooltip": "Add Category",
+			"tooltip_flow": "down"
+		},
+		"add_Location": {
+			"text": " Add",
+			"tooltip": "Add Location ",
+			"tooltip_flow": "down"
+		},
+		"add_Tags": {
+			"text": " Add",
+			"tooltip": "Add Tags ",
+			"tooltip_flow": "down"
+		},
+		"add_Material": {
+			"text": " Add",
+			"tooltip": "Add Material ",
+			"tooltip_flow": "down"
+		},
+		"add_Laborur": {
+			"text": " Add",
+			"tooltip": "Add Labour ",
+			"tooltip_flow": "down"
+		},
+		"add_Equipment": {
+			"text": " Add",
+			"tooltip": "Add Equipment ",
+			"tooltip_flow": "down"
+		},
+		"add_Unit": {
+			"text": " Add",
+			"tooltip": "Add Material Unit ",
+			"tooltip_flow": "down"
+		},
+		"project_settings": {
+			"text": " Project Setting"
+		},
+		"setting_list": {
+			"text": "Setting List"
+		},
+		"project_name": {
+			"text": " Project Name"
+		},
+		"project_code": {
+			"text": "Project Code"
+		},
+		"address": {
+			"text": "Address"
+		},
+		"timezone": {
+			"text": "Timezone"
+		},
+		"currency": {
+			"text": "Currency"
+		},
+		"manpower_unit": {
+			"text": "Manpower Unit"
+		},
+		"date_format": {
+			"text": "Date format"
+		},
+		"archive_task_time": {
+			"text": "Archive task"
+		},
+		"project_logo": {
+			"text": "Project Logo"
+		},
+		"category_name": {
+			"text": "Category"
+		},
+		"manage_category": {
+			"text": "Category"
+		},
+		"Location": {
+			"text": "Location"
+		},
+		"manage_localtion": {
+			"text": "Location"
+		},
+		"tags_name": {
+			"text": "Tags"
+		},
+		"manage_tags": {
+			"text": "Tags"
+		},
+		"material": {
+			"text": "Material"
+		},
+		"manage_material": {
+			"text": "Material"
+		},
+		"laborur": {
+			"text": "Labour"
+		},
+		"manage_labour": {
+			"text": "Labour"
+		},
+		"equipment": {
+			"text": "Equipment"
+		},
+		"manage_equipment": {
+			"text": "Equipment"
+		},
+		"unit_name": {
+			"text": "Material Unit"
+		},
+		"ph_selectUnit": {
+			"text": "Select Unit"
+		},
+		"manage_unit": {
+			"text": "Unit"
+		},
+		"manage_vendor": {
+			"text": "Vendors"
+		},
+		"template": {
+			"text": "Template"
+		},
+		"manage_template": {
+			"text": "Template"
+		},
+		"type": {
+			"text": "Type"
+		},
+		"material_name": {
+			"text": "Material Name"
+		},
+		"ph_material_name": {
+			"text": "Enter material Name"
+		},
+		"minimum_quantity": {
+			"text": "Minimum Quantity"
+		},
+		"ph_minimum_quantity": {
+			"text": "Enter minimum quantity"
+		},
+		"add_material": {
+			"text": " + Add Material"
+		},
+		"setting_name": {
+			"text": "Setting"
+		},
+		"dashboard": {
+			"text": "Dashboard"
+		},
+		"remove": {
+			"text": "Remove"
+		},
+		"remove_logo": {
+			"text": "Remove logo"
+		},
+		"company_setting": {
+			"text": "Company Setting"
+		},
+		"company_name": {
+			"text": "Company Name"
+		},
+		"company_address": {
+			"text": "Company address"
+		},
+		"GSTIN": {
+			"text": "GSTIN"
+		},
+		"company_email": {
+			"text": "Company Email"
+		},
+		"company_mobile": {
+			"text": "Company Mobile"
+		},
+		"search_category": {
+			"text": "Search category"
+		},
+		"search_tags": {
+			"text": "Search tags"
+		},
+		"enter_tag": {
+			"text": "Enter tag"
+		},
+		"search_material": {
+			"text": "Search material"
+		},
+		"search_labour": {
+			"text": "Search labour"
+		},
+		"labour_name": {
+			"text": "labour name"
+		},
+		"equipment_name": {
+			"text": "equipment name"
+		},
+		"search_unit": {
+			"text": "Search unit"
+		},
+		"unit_name_text": {
+			"text": "unit name"
+		},
+		"vendor_name": {
+			"text": "Vendor name"
+		},
+		"contact_names": {
+			"text": "Contact name"
+		},
+		"location_name": {
+			"text": "location name"
+		}
+	},
+	"storeroom": {
+		"btn_material": {
+			"text": " Material",
+			"tooltip": "Add / Update Material",
+			"tooltip_flow": "down"
+		},
+		"storeroom_text": {
+			"text": " STORE ROOM LOG"
+		},
+		"vendor_name": {
+			"text": "Vendor name"
+		},
+		"btn_Issue": {
+			"text": "+ Entry",
+			"tooltip": "Add Entry",
+			"tooltip_flow": "down"
+		},
+		"btn_show": {
+			"text": "Show",
+			"tooltip": "Show all material",
+			"tooltip_flow": "down"
+		},
+		"btn_hide": {
+			"text": "Hide",
+			"tooltip": "Hide Material",
+			"tooltip_flow": "down"
+		},
+		"btn_download": {
+			"text": "Download",
+			"tooltip": "Download Report",
+			"tooltip_flow": "down"
+		},
+		"btn_unlock": {
+			"text": "Unlock",
+			"tooltip": "Unlock Report",
+			"tooltip_flow": "down"
+		},
+		"btn_create_order": {
+			"text": "Create PO",
+			"tooltip": "Create Purchase Order",
+			"tooltip_flow": "left"
+		},
+		"icon_edit": {
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_delete": {
+			"tooltip": "Delete",
+			"tooltip_flow": "left"
+		},
+		"create_material": {
+			"text": "Create Material"
+		},
+		"unit_name": {
+			"text": "Unit"
+		},
+		"please_select_unit": {
+			"text": "Please Select Unit *"
+		},
+		"minimum_quantity": {
+			"text": "Minimum Quantity"
+		},
+		"purchase_order": {
+			"text": "Purchase Order"
+		},
+		"order_no": {
+			"text": "Order No:"
+		},
+		"vendor": {
+			"text": "Vendor:"
+		},
+		"date_of_order": {
+			"text": "Date of Order:"
+		},
+		"expected_delivery_date": {
+			"text": "Expected Delivery date:"
+		},
+		"save": {
+			"text": "Save"
+		},
+		"material": {
+			"text": "Material"
+		},
+		"order_Details": {
+			"text": "Order Details:"
+		},
+		"order_qty": {
+			"text": "Order Qty."
+		},
+		"order_rate": {
+			"text": "Order Rate"
+		},
+		"materials": {
+			"text": "Materials"
+		},
+		"create_store": {
+			"text": "Create Store"
+		},
+		"from": {
+			"text": "From"
+		},
+		"issued_qty": {
+			"text": "Issued Qty"
+		},
+		"requested_qty": {
+			"text": "Requested Qty"
+		},
+		"PO_No": {
+			"text": "PO No"
+		},
+		"invoice_no": {
+			"text": "Invoice No"
+		},
+		"received_qty": {
+			"text": "Received Qty"
+		},
+		"unit_rate": {
+			"text": "Unit Rate"
+		},
+		"amount": {
+			"text": "Amount"
+		},
+		"sub_total": {
+			"text": "Sub Total"
+		},
+		"tax": {
+			"text": "Tax"
+		},
+		"freight_charges": {
+			"text": "Freight Charges"
+		},
+		"other_charges": {
+			"text": "Other Charges"
+		},
+		"terms_Conditions": {
+			"text": "Terms and Conditions"
+		},
+		"invoice_photo": {
+			"text": "Invoice Photo"
+		},
+		"general_photo": {
+			"text": "General photo"
+		},
+		"sign_PO": {
+			"text": "Sign PO"
+		},
+		"delivery_date": {
+			"text": "Delivery Date"
+		},
+		"ordered_qty": {
+			"text": "Ordered Qty"
+		},
+		"order_price": {
+			"text": "Order Price"
+		},
+		"po_details": {
+			"text": "PO Details"
+		},
+		"sign_storeroom_log_report": {
+			"text": "Sign StoreRoom Log Report"
+		},
+		"store_info": {
+			"text": "Store Info"
+		},
+		"delivery": {
+			"text": "Delivery"
+		},
+		"requests_dates": {
+			"text": "Requests Dates"
+		},
+		"stock": {
+			"text": "Stock"
+		},
+		"insights": {
+			"text": "Insights"
+		},
+		"order_date": {
+			"text": "Order Date"
+		},
+		"expected_date": {
+			"text": "Expected Date"
+		},
+		"po": {
+			"text": "PO #"
+		},
+		"create_order": {
+			"text": "Create Order"
+		},
+		"update_timeSheet": {
+			"text": "Update TimeSheet"
+		},
+		"purchased": {
+			"text": "Purchased"
+		},
+		"in_order": {
+			"text": "In Order"
+		},
+		"requested": {
+			"text": "Requested"
+		},
+		"insufficient_order": {
+			"text": "Insufficient Order"
+		},
+		"insufficient_material": {
+			"text": "Insufficient Material"
+		},
+		"issue_new": {
+			"text": "ISSUE NEW"
+		},
+		"updatestore": {
+			"update_store_Room": {
+				"text": "Update Store Room"
+			},
+			"info_name": {
+				"text": "Info"
+			}
+		},
+		"updateOrder": {
+			"edit_purchase_order": {
+				"text": "Edit Purchase Order"
+			},
+			"order_no": {
+				"text": "Order No:"
+			},
+			"vendor": {
+				"text": "Vendor"
+			},
+			"date_of_order": {
+				"text": "Date of Order:"
+			},
+			"expected_delivery_date": {
+				"text": "Expected Delivery date:"
+			},
+			"order_details": {
+				"text": "Order Details:"
+			},
+			"select": {
+				"text": "Select"
+			},
+			"material": {
+				"text": "Material"
+			},
+			"order_qty": {
+				"text": "Order Qty."
+			},
+			"save": {
+				"text": "Save"
+			},
+			"cancel": {
+				"text": "Cancel"
+			}
+		}
+	},
+	"labour": {
+		"btn_Labour": {
+			"text": "Labour",
+			"tooltip": "Add Labour Type",
+			"tooltip_flow": "left"
+		},
+		"btn_labour_log": {
+			"text": "Labour Log",
+			"tooltip": "Add Labour Log",
+			"tooltip_flow": "left"
+		},
+		"icon_edit": {
+			"text": "Edit",
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_select": {
+			"text": "Select",
+			"tooltip": "Select",
+			"tooltip_flow": "left"
+		},
+		"icon_save": {
+			"text": "Save",
+			"tooltip": "Save",
+			"tooltip_flow": "left"
+		},
+		"btn_download": {
+			"text": "Download",
+			"tooltip": "Download Report",
+			"tooltip_flow": "down"
+		},
+		"btn_unlock": {
+			"text": "Unlock",
+			"tooltip": "Unlock Report",
+			"tooltip_flow": "down"
+		},
+		"create_labour_log": {
+			"text": "Create Labour Log"
+		},
+		"labour": {
+			"text": "Labour"
+		},
+		"ph_labourSelect": {
+			"text": "Select Type..."
+		},
+		"creat_laboure": {
+			"text": "Create Labour"
+		},
+		"create_labour_log_btn": {
+			"text": "+ Create Labour Log"
+		},
+		"labour_info": {
+			"text": "Labour Info"
+		},
+		"create": {
+			"text": "+ Create"
+		},
+		"ph_LabourName": {
+			"text": "Name"
+		},
+		"ph_selectLabour": {
+			"text": "Labour..."
+		},
+		"delete_labourlog_confirmation": {
+			"text": "Are you sure to delete Labour Log?"
+		},
+		"Labour_Equipment": {
+			"text": "Labour & Equipment Log",
+			"tooltip": "Labour & Equipment log",
+			"tooltip_flow": "null"
+		},
+		"updatelabourlog": {
+			"update_labour_log": {
+				"text": "Update Labour Log"
+			}
+		},
+		"updatelabour": {
+			"update_labour": {
+				"text": "Update Labour"
+			}
+		}
+	},
+	"equiqment": {
+		"btn_download": {
+			"text": "Download",
+			"tooltip": "Download Report",
+			"tooltip_flow": "down"
+		},
+		"btn_unlock": {
+			"text": "Unlock",
+			"tooltip": "Unlock Report",
+			"tooltip_flow": "down"
+		},
+		"icon_edit": {
+			"text": "Edit",
+			"tooltip": "Edit",
+			"tooltip_flow": "left"
+		},
+		"icon_select": {
+			"text": "Select",
+			"tooltip": "Select",
+			"tooltip_flow": "left"
+		},
+		"icon_save": {
+			"text": "Save",
+			"tooltip": "Save",
+			"tooltip_flow": "left"
+		},
+		"btn_equipment": {
+			"text": "Equipment",
+			"tooltip": "Add Equipment",
+			"tooltip_flow": "left"
+		},
+		"btn_equipment_log": {
+			"text": "Equipment Log",
+			"tooltip": "Create Equipment Log",
+			"tooltip_flow": "left"
+		},
+		"create_equipment": {
+			"text": "Create Equipment"
+		},
+		"create_equipment_log": {
+			"text": "Create Equipment Log"
+		},
+		"equipment_log": {
+			"text": "+ Equipment Log"
+		},
+		"create": {
+			"text": "Create"
+		},
+		"labour_equipment_log": {
+			"text": "Labour & Equipment Log"
+		},
+		"sign_labour_equipment_log": {
+			"text": "Sign Labour & Equipment Log"
+		},
+		"notes": {
+			"text": "Notes:"
+		},
+		"sign_report": {
+			"text": "Sign Report"
+		},
+		"file": {
+			"text": "file"
+		},
+		"update_equipment": {
+			"text": "Update Equipment"
+		},
+		"update_equipment_log": {
+			"text": "Update Equipment Log"
+		},
+		"quantity": {
+			"text": "Quantity"
+		},
+		"ph_quantity": {
+			"text": "Enter Quantity"
+		},
+		"name_n": {
+			"text": "Name"
+		},
+		"ph_equipmentName": {
+			"text": "Name"
+		},
+		"err_hoursValue": {
+			"text": "Hours value should be between 0 to 24"
+		},
+		"err_minutesValue": {
+			"text": "Minutes value should be between 0 to 60"
+		},
+		"ph_equipmentSelect": {
+			"text": "Equipment..."
+		},
+		"ph_hours": {
+			"text": "Enter Hours"
+		},
+		"ph_minutes": {
+			"text": "Enter minutes"
+		},
+		"ph_notes": {
+			"text": "Enter text"
+		},
+		"ph_selectEquipment": {
+			"text": "equipment..."
+		}
+	},
+	"material": {
+		"btn_hide": {
+			"text": "Hide",
+			"tooltip": "null",
+			"tooltip_flow": "null"
+		},
+		"btn_download": {
+			"text": "Download",
+			"tooltip": "null",
+			"tooltip_flow": "null"
+		},
+		"btn_unlock": {
+			"text": "Unlock",
+			"tooltip": "Unlock report",
+			"tooltip_flow": "down"
+		},
+		"submit": {
+			"text": "Submit",
+			"tooltip": "Submit",
+			"tooltip_flow": "down"
+		},
+		"btn_consumption": {
+			"text": "Consumption",
+			"tooltip": "Consumption",
+			"tooltip_flow": "down"
+		},
+		"entry": {
+			"text": "Entry",
+			"tooltip": "Add Entry",
+			"tooltip_flow": "down"
+		},
+		"description": {
+			"text": "Description"
+		},
+		"opening_qty": {
+			"text": "Opening Qty"
+		},
+		"issued": {
+			"text": "Issued"
+		},
+		"update_issue": {
+			"text": "Update Issue"
+		},
+		"adjustment": {
+			"text": "Adjustment"
+		},
+		"ph_updateAdjustment": {
+			"text": "Update Adjustment"
+		},
+		"adjustmentValue": {
+			"text": "Adjustment Value"
+		},
+		"adjustment_qty": {
+			"text": "Adjustment Qty."
+		},
+		"update_adjustment": {
+			"text": "Edit Adjustment"
+		},
+		"requsted": {
+			"text": "Request"
+		},
+		"consumend": {
+			"text": "Consumed"
+		},
+		"consumption_qty": {
+			"text": "Consumption Qty."
+		},
+		"edit_consumption": {
+			"text": "Update Consumption"
+		},
+		"ph_consumptionValue": {
+			"text": "Enter Consumption"
+		},
+		"available": {
+			"text": "Available"
+		},
+		"notes": {
+			"text": "Note"
+		},
+		"add_entry": {
+			"text": "Add Entry"
+		},
+		"entry_type": {
+			"text": "Entry type"
+		},
+		"material_text": {
+			"text": "Material"
+		},
+		"order_qty": {
+			"text": "Qty."
+		},
+		"request_materials": {
+			"text": "Request Materials."
+		},
+		"save": {
+			"text": "Save"
+		},
+		"cancel": {
+			"text": "Cancel"
+		},
+		"ph_updateQuantity": {
+			"text": "Update Quantity"
+		},
+		"ph_selectMaterial": {
+			"text": "Select Material"
+		},
+
+		"components": {
+			"signmateriallog": {
+				"sign_material_log_report": {
+					"text": "Sign Material Log Report"
+				},
+				"notes": {
+					"text": "Notes:"
+				},
+				"file": {
+					"text": "file"
+				},
+				"sign_report": {
+					"text": "Sign Report"
+				}
+			},
+			"editmaterial": {
+				"update_material": {
+					"text": "Update Material"
+				},
+				"type": {
+					"text": "Type"
+				},
+				"unit": {
+					"text": "Unit"
+				},
+				"minimum_quantity": {
+					"text": "Minimum Quantity"
+				}
+			},
+			"editEntry": {
+				"request": {
+					"text": "Request"
+				},
+				"consumption_qty": {
+					"text": "Consumption "
+				},
+				"adjustment_qty": {
+					"text": "Adjustment"
+				},
+				"select_material": {
+					"text": "Select Material"
+				},
+				"material_unit": {
+					"text": "Material Unit"
+				},
+				"note": {
+					"text": "Note"
+				},
+				"update": {
+					"text": "Update"
+				},
+				"cancel": {
+					"text": "Cancel"
+				},
+				"quantity": {
+					"text": "Quantity "
+				}
+			},
+			"creatematerialinfo": {
+				"info_n": {
+					"text": "Info"
+				},
+				"material_info": {
+					"text": "Material Info"
+				}
+			}
+		},
+		"materiallog": {
+			"material_log": {
+				"text": "MATERIAL LOG"
+			}
+		},
+		"index": {
+			"material": {
+				"text": "Material"
+			},
+			"dashboard": {
+				"text": "Dashboard"
+			},
+			"type": {
+				"text": "Type"
+			},
+			"unit": {
+				"text": "Unit"
+			},
+			"minimum_quantity": {
+				"text": "Minimum Quantity"
+			},
+			"action": {
+				"text": "Action"
+			}
+		}
+	},
+	"components": {
+		"location_name": {
+			"text": "Location"
+		},
+		"store_room": {
+			"text": "Store Room"
+		},
+		"Save Changes": {
+			"text": "Save Changes"
+		},
+		"create_unit": {
+			"text": "Create Unit"
+		},
+		"add_unit": {
+			"text": " + Add Unit"
+		},
+		"type": {
+			"text": "Type"
+		},
+		" submit": {
+			"text": " Submit"
+		},
+		"edit_entry": {
+			"text": "Edit Entry"
+		},
+		"select_type": {
+			"text": "Select type"
+		},
+		"request": {
+			"text": "Request"
+		},
+		"authlayout": {
+			"already_have_an_account": {
+				"text": "Already have an account?"
+			},
+			"login_here": {
+				"text": "Login here"
+			}
+		},
+		"billingifo": {
+			"billing_info": {
+				"text": "Billing info"
+			},
+			"number_users": {
+				"text": "Number of Users :"
+			},
+			"select_your_plan": {
+				"text": "Select your plan :"
+			},
+			"monthly": {
+				"text": "Monthly"
+			},
+			"yearly": {
+				"text": "Yearly"
+			},
+			"quaterly": {
+				"text": "Quaterly"
+			},
+			"billing_name": {
+				"text": "Billing Name"
+			},
+			"legal_name_as_on_pan_card": {
+				"text": "Legal Name"
+			},
+			"address": {
+				"text": "Address"
+			},
+			"city": {
+				"text": "City"
+			},
+			"state": {
+				"text": "State"
+			},
+			"country": {
+				"text": "Country"
+			},
+			"zip_postal_code": {
+				"text": "Zip/Postal Code"
+			},
+			"email_address": {
+				"text": "Email Address"
+			},
+			"contact_number": {
+				"text": "Contact Number"
+			},
+			"do_you_have_gstin": {
+				"text": "Do you have GSTIN?:"
+			},
+			"yes": {
+				"text": "YES"
+			},
+			"no": {
+				"text": "NO"
+			},
+			"gstin": {
+				"text": "GSTIN"
+			},
+			"pan_card": {
+				"text": "PAN Card"
+			},
+			"back": {
+				"text": "Back"
+			},
+			"for_more_details_contact_us_at": {
+				"text": "For more details contact us at"
+			},
+			"or": {
+				"text": "or"
+			},
+			"number": {
+				"text": "(+91)9033938373"
+			},
+			"gmail": {
+				"text": "support@livefield.app"
+			},
+			"are_you_registerd_in_sez_special_economic_zone": {
+				"text": "Are You Registerd In SEZ ( Special Economic Zone) ?"
+			},
+			"registerd_in_sez_special_economic_zone": {
+				"text": "Registerd in SEZ ( Special Economic Zone) :"
+			}
+		},
+		"cart": {
+			"cart_details": {
+				"text": "Cart Details"
+			},
+			"basic": {
+				"text": "Basic"
+			},
+			"monthly": {
+				"text": "Monthly"
+			},
+			"yearly": {
+				"text": "Yearly"
+			},
+			"quaterly": {
+				"text": "Quaterly"
+			},
+			"minimum_5_users_can_subscribe": {
+				"text": "Minimum 5 Users Can Subscribe"
+			},
+			"subscription_term_start_date": {
+				"text": "Subscription Term Start Date :"
+			},
+			"date": {
+				"text": "26/08/2021"
+			},
+			"time_Period": {
+				"text": "Time Period :"
+			},
+			"months": {
+				"text": "12 months"
+			},
+			"next_due_date": {
+				"text": "Next Due Date :"
+			},
+			"payabel_price": {
+				"text": "Payabel Price"
+			},
+			"price": {
+				"text": "960"
+			},
+			"off": {
+				"text": "35% off"
+			},
+			"per_month": {
+				"text": "80 per month"
+			},
+			"recurring": {
+				"text": "Recurring"
+			},
+			"do_you_want_to_align_bill_on_particular_day": {
+				"text": "Do You Want To Align Bill On Particular Day ? :"
+			},
+			"select_your_billing_day_of_each_month": {
+				"text": "Select Your Billing Day Of Each month :"
+			},
+			"yes": {
+				"text": "YES"
+			},
+			"no": {
+				"text": "NO"
+			},
+			"number_Of_license": {
+				"text": "Number Of License :"
+			},
+			"total_payment": {
+				"text": "Total Payment"
+			},
+			"use_livefield_wallet": {
+				"text": "Use Livefield Wallet"
+			},
+			"back": {
+				"text": "Back"
+			},
+			"for_more_details_contact_us_at": {
+				"text": "For more details contact us at"
+			},
+			"or": {
+				"text": "or"
+			},
+			"number": {
+				"text": "(+91) 9033938373"
+			},
+			"gmail": {
+				"text": "support@livefield.app"
+			}
+		},
+		"projectUserSelect": {
+			"ph_assignee": {
+				"text": "Assignee..."
+			}
+		},
+		"customsearch": {
+			"issues": {
+				"text": "Issues :"
+			},
+			"users": {
+				"text": "Users :"
+			},
+			"tasks": {
+				"text": "Tasks:"
+			},
+			"sheets": {
+				"text": "Sheets:"
+			},
+			"Peoples": {
+				"text": "Peoples:"
+			},
+			"reports": {
+				"text": "Reports:"
+			},
+			"files": {
+				"text": "Files:"
+			},
+			"photos": {
+				"text": "Photos:"
+			},
+			"meetings": {
+				"text": "Meetings:"
+			},
+			"templates": {
+				"text": "Templates:"
+			},
+			"material_logs": {
+				"text": "Material Logs:"
+			},
+			"store_room_logs": {
+				"text": "Store Room Logs:"
+			},
+			"store_room_po": {
+				"text": "Store Room PO:"
+			},
+			"project": {
+				"text": "Project"
+			},
+			"no_task": {
+				"text": "No Tasks Found"
+			},
+			"no_user": {
+				"text": "No User Found"
+			},
+			"no_files": {
+				"text": "No Files Found"
+			},
+			"no_plans": {
+				"text": "No Sheets Found"
+			},
+			"no_photo": {
+				"text": "No Photos Found"
+			},
+			"no_report": {
+				"text": "No Reports Found"
+			},
+			"no_meeting": {
+				"text": "No Meetings Found"
+			},
+			"no_templates": {
+				"text": "No Templates Found"
+			},
+			"no_material": {
+				"text": "No Materials Found"
+			},
+			"no_storeroom": {
+				"text": "No Materials Found"
+			},
+			"no_storeroom_po": {
+				"text": "No PO Found"
+			},
+			"no_project": {
+				"text": "No Project Found"
+			},
+			"search": {
+				"text": "Search"
+			}
+		},
+		"emailVerification": {
+			"verify_your_email": {
+				"text": "Verify Your Email"
+			},
+			"a_code_has_been_sent_to": {
+				"text": "A code has been sent to"
+			},
+			"resend": {
+				"text": "Resend"
+			},
+			"didnt_receive_the_code": {
+				"text": "- Didn't receive the code?"
+			},
+			"verify": {
+				"text": "VERIFY"
+			},
+			"email_is_empty": {
+				"text": "Email is empty"
+			}
+		},
+		"forgotemailverification": {
+			"verify_your": {
+				"text": "Verify Your"
+			},
+			"a_code_has_been_sent_to": {
+				"text": "A code has been sent to"
+			},
+			"resend": {
+				"text": "Resend"
+			},
+			"didnt_receive_the_code": {
+				"text": "- Didn't receive the code?"
+			},
+			"verify": {
+				"text": "VERIFY"
+			},
+			"the_otp_expire_in": {
+				"text": "The OTP Expire in"
+			}
+		},
+		"layout": {
+			"purchase_plan": {
+				"text": "Purchase Plan"
+			},
+			"renew_plan": {
+				"text": "Renew Plan"
+			},
+			"my_profile": {
+				"text": "My Profile"
+			},
+			"my_subscription": {
+				"text": "My Subscription"
+			},
+			"project":{
+				"text": "Project"
+			},
+			"team":{
+				"text": "Team"
+			},
+			"need_help":{
+				"text": "Need Help?"
+			},
+			"logout": {
+				"text": "Logout"
+			},
+			"licence": {
+				"text": "Licence"
+			},
+			"purchase_a_plan_before_your_trial_ends": {
+				"text": "Your trial ends on"
+			},
+			"to_prevent_loss_of_features": {
+				"text": ""
+			},
+			"upgrade_options": {
+				"text": "See Upgrade Option"
+			},
+			"my_account": {
+				"text": "My Account"
+			}
+		},
+		"locationm": {
+			"location_name": {
+				"text": "Location"
+			},
+			"add_location": {
+				"text": "+ Add Location"
+			},
+			"location_n": {
+				"text": "Location Name"
+			},
+			"create_location": {
+				"text": "+ Create location"
+			},
+			"ph_location_name": {
+				"text": "Location..."
+			},
+			"ph_location_n": {
+				"text": "Location..."
+			}
+		},
+		"mobileVerification": {
+			"email_is_empty": {
+				"text": "Mobile is empty"
+			},
+			"verify_your_mobile": {
+				"text": "Verify Your Mobile"
+			},
+			"a_code_has_been_sent_to": {
+				"text": "A code has been sent to"
+			},
+			"resend": {
+				"text": "Resend"
+			},
+			"didnt_receive_the_code": {
+				"text": "- Didn't receive the code?"
+			},
+			"verify": {
+				"text": "VERIFY"
+			},
+			"the_otp_expire_in": {
+				"text": "The OTP Expire in"
+			}
+		},
+		"nodata": {
+			"currently_you_have_no_added": {
+				"text": "Currently you haven't added"
+			},
+			"Please_add_a": {
+				"text": "Please add "
+			},
+			"and_explore_the_functionality": {
+				"text": "and explore the functionality"
+			}
+		},
+		"planbillinginfo": {
+			"billing_info": {
+				"text": "Billing info"
+			},
+			"number_users": {
+				"text": "Number of Users :"
+			},
+			"select_your_plan": {
+				"text": "Select your plan :"
+			},
+			"billing_name": {
+				"text": "Billing Name"
+			},
+			"legal_name_as_on_pan_card": {
+				"text": "Legal Name"
+			},
+			"address": {
+				"text": "Address"
+			},
+			"city": {
+				"text": "City"
+			},
+			"state": {
+				"text": "State"
+			},
+			"country": {
+				"text": "Country"
+			},
+			"zip_postal_code": {
+				"text": "Zip/Postal Code"
+			},
+			"email_address": {
+				"text": "Email Address"
+			},
+			"contact_number": {
+				"text": "Contact Number"
+			},
+			"do_you_have_gstin": {
+				"text": "Do you have GSTIN?:"
+			},
+			"yes": {
+				"text": "YES"
+			},
+			"no": {
+				"text": "NO"
+			},
+			"gstin": {
+				"text": "GSTIN"
+			},
+			"pan_card": {
+				"text": "PAN Card"
+			},
+			"back": {
+				"text": "Back"
+			},
+			"for_more_details_contact_us_at": {
+				"text": "For more details contact us at"
+			},
+			"or": {
+				"text": "or"
+			},
+			"number": {
+				"text": "(+91) 9033938373"
+			},
+			"gmail": {
+				"text": "support@livefield.app"
+			},
+			"next": {
+				"text": "Next"
+			},
+			"order_detail": {
+				"text": "Order Details"
+			},
+			"billing_detail": {
+				"text": "Billing Details"
+			},
+			"order_summary": {
+				"text": "Order Summary"
+			},
+			"plan_name": {
+				"text": "Plan Name:"
+			},
+			"number_of_license": {
+				"text": "Number of license:"
+			},
+			"number_of_month": {
+				"text": "Number of Month:"
+			},
+			"price_per_month": {
+				"text": "Price per user per month"
+			},
+			"subtotal": {
+				"text": "Subtotal"
+			},
+			"total": {
+				"text": "Total"
+			},
+			"complate_purchase": {
+				"text": "Complete Purchase"
+			},
+			"bill_on_perticular_day": {
+				"text": "Want to align bill on particular day?"
+			},
+			"billing_day_each_month": {
+				"text": "Billing day of each month?"
+			}
+		},
+		"sidebar": {
+			"back_to_home": {
+				"text": "Back to Home"
+			}
+		},
+		"tags": {
+			"choose_Tags": {
+				"text": "Choose Tags"
+			},
+			"create_tag": {
+				"text": "+ Create Tag"
+			},
+			"tag_name": {
+				"text": "Tag Name"
+			},
+			"tags_n": {
+				"text": "Tags"
+			},
+			"ph_tag_name": {
+				"text": "Name"
+			},
+			"update_tags": {
+				"text": "Update Tags"
+			}
+		},
+		"teemsmodal": {
+			"terms_N": {
+				"text": "Terms"
+			},
+			"privacy_policy": {
+				"text": "Privacy Policy"
+			},
+			"terms_and_conditions": {
+				"text": "Terms and Conditions - Last Updated 26th Aug, 2020"
+			},
+			"close": {
+				"text": "Close"
+			}
+		},
+		"upload": {
+			"attachement": {
+				"text": "Add"
+			},
+			"upload_file": {
+				"text": "upload file"
+			},
+			"drag_and_drop_file": {
+				"text": "or drag & drop files"
+			},
+			"browse_for_file_n": {
+				"text": " Select File to upload"
+			},
+			"browse_for_image_n": {
+				"text": "Select Image to upload"
+			},
+			"or": {
+				"text": "Or"
+			},
+			"error_message": {
+				"text": "Please Upload JPG,PDF or PNG file"
+			}
+		},
+		"wallet": {
+			"wallet": {
+				"text": "Wallet"
+			},
+			"earned_amount": {
+				"text": " Earned Amount:"
+			},
+			"total_earned_amount": {
+				"text": "Total Earned Amount"
+			},
+			"date":{
+				"text":"Date :"
+			}
+		},
+		"plans": {
+			"choose_your_plan": {
+				"text": "Pricing"
+			},
+			"next": {
+				"text": "Next"
+			},
+			"for_more_details_contact_us_at": {
+				"text": "For more details contact us at"
+			},
+			"or": {
+				"text": "or"
+			},
+			"number": {
+				"text": "(+91) 9033938373"
+			},
+			"gmail": {
+				"text": "support@livefield.app"
+			},
+			"minimum_user_text": {
+				"text": "Minimum user:"
+			},
+			"minimum_user_n:": {
+				"text": "Minimum user:"
+			},
+			"cart_details": {
+				"text": "Cart Details"
+			},
+			"users_can_subscribe": {
+				"text": "Minimum 5 Users Can Subscribe"
+			},
+			"subscription_term_start_date": {
+				"text": "Subscription Term Start Date :"
+			},
+			"time_Period": {
+				"text": "Time Period :"
+			},
+			"next_due_date": {
+				"text": "Next Due Date :"
+			},
+			"off": {
+				"text": "35% off"
+			},
+			"number_Of_license": {
+				"text": "Number Of License :"
+			},
+			"recurring": {
+				"text": "Recurring"
+			},
+			"do_you_want_to_align_bill_on_particular_day": {
+				"text": "Do You Want To Align Bill On Particular Day ? :"
+			},
+			"select_your_billing_day_of_each_month": {
+				"text": "Select Your Billing Day Of Each month :"
+			},
+			"yes": {
+				"text": "YES"
+			},
+			"no": {
+				"text": "NO"
+			},
+			"total_payment": {
+				"text": "Total Payment"
+			},
+			"use_livefield_wallet": {
+				"text": "Use Livefield Wallet"
+			},
+			"back": {
+				"text": "Back"
+			},
+			"pay_now": {
+				"text": "Pay Now"
+			},
+			"minimum_n": {
+				"text": "Minimum"
+			},
+			"payabel_price": {
+				"text": "Payabel Price"
+			},
+			"per_user_per_month": {
+				"text": "/ User / Month"
+			},
+			"enter_address": {
+				"text": "Please enter address"
+			},
+			"link_expired": {
+				"text": "Link has been expired"
+			}
+		}
+	},
+	"subscription": {
+		"btn_download_CSV": {
+			"text": "Download CSV",
+			"tooltip": "Download CSV",
+			"tooltip_flow": "down"
+		},
+		"btn_Users": {
+			"text": "Add Users",
+			"tooltip": "Add Users",
+			"tooltip_flow": "down"
+		},
+		"licence": {
+			"text": "Licence"
+		},
+		"subscription": {
+			"text": "Subscription"
+		},
+		"Purchase_Plan": {
+			"text": "Purchase Plan"
+		},
+		"current_plan": {
+			"text": "Current Plan :"
+		},
+		"users": {
+			"text": "Users :"
+		},
+		"user": {
+			"text": "User"
+		},
+		"estimated_bill": {
+			"text": "Estimated Bill :"
+		},
+		"renewal_date": {
+			"text": "Renewal Date :"
+		},
+		"billing_settings": {
+			"text": "Billing Setting"
+		},
+		"home_or_business": {
+			"text": "This address appears on your monthly invoice and should be the legal address of your business"
+		},
+		"transaction_history": {
+			"text": "Transaction History"
+		},
+		"address_name": {
+			"text": "Name :"
+		},
+		"address": {
+			"text": "Address :"
+		},
+		"gstin": {
+			"text": "GSTIN :"
+		},
+		"pan_card": {
+			"text": "PAN Card :"
+		},
+		"payment_date": {
+			"text": "Payment Date"
+		},
+		"invoice_id": {
+			"text": "Invoice ID"
+		},
+		"transction_type": {
+			"text": "Transction Type"
+		},
+		"payment_mathod": {
+			"text": "Payment Method"
+		},
+		"transaction_id": {
+			"text": "Transaction ID"
+		},
+		"transction_amount": {
+			"text": "Transaction Amount"
+		},
+		"add_bank": {
+			"text": "Add Bank"
+		},
+		"bank_name": {
+			"text": "Bank Name"
+		},
+		"account_holder_name": {
+			"text": "Account Holder Name"
+		},
+		"account_number": {
+			"text": "Account Number"
+		},
+		"save_bank": {
+			"text": "Save Bank"
+		},
+		"align_bill": {
+			"text": "Align Bill"
+		},
+		"auto_renew": {
+			"text": "Do you want to Auto renew?"
+		},
+		"align_bill_on_particular_day": {
+			"text": "Do You Want To Align Bill On Particular Day?"
+		},
+		"billing_day_of_next_renewal": {
+			"text": "Billing day of next Renewal"
+		},
+		"next_renewal_date": {
+			"text": "Next Renewal date"
+		},
+		"days_to_be_paid": {
+			"text": "Days to be paid to align the Renewal date"
+		},
+		"add_cards": {
+			"text": "Add Cards"
+		},
+		"card_holder_name": {
+			"text": "Card Holder Name"
+		},
+		"card_name": {
+			"text": "Card Name"
+		},
+		"card_number": {
+			"text": "Card Number"
+		},
+		"valid_upto": {
+			"text": "Valid upto"
+		},
+		"save_card": {
+			"text": "Save Card"
+		},
+		"exit_from_licence": {
+			"text": "Exit From Licence"
+		},
+		"update_card": {
+			"text": "Update Card"
+		},
+		"contact_us": {
+			"text": "Contact Us"
+		},
+		"change_license": {
+			"text": "Change License"
+		},
+		"current_license": {
+			"text": "Current License"
+		},
+		"assigned_license": {
+			"text": "Assigned License"
+		},
+		"un_assigned_license": {
+			"text": "Un-assigned License"
+		},
+		"change_license_to": {
+			"text": "Change License to"
+		},
+		"revised_plan": {
+			"text": "Revised Plan"
+		}
+	},
+	"profile": {
+		"Profile": {
+			"text": "Profile"
+		},
+		"dashboard": {
+			"text": "Dashboard"
+		},
+		"customize_profile": {
+			"tooltip": "Customize Profile",
+			"tooltip_flow": "left"
+		},
+		"referral_code": {
+			"text": "Referral Code"
+		},
+		"personal_details": {
+			"text": "Personal Details"
+		},
+		"first_name": {
+			"text": "First Name"
+		},
+		"last_name": {
+			"text": "Last Name"
+		},
+		"job_title": {
+			"text": "Job Title"
+		},
+		"email": {
+			"text": "Email"
+		},
+		"mobile": {
+			"text": "Mobile"
+		},
+		"company": {
+			"text": "Company"
+		},
+		"settings": {
+			"text": "Settings"
+		},
+		"email_notification_settings": {
+			"text": "Email Notification"
+		},
+		"change_password": {
+			"text": "Reset Password"
+		},
+		"sms_notification_settings": {
+			"text": "SMS Notification Settings"
+		},
+		"push_notification_settings": {
+			"text": "Push Notification"
+		},
+		"old_password": {
+			"text": "Old Password"
+		},
+		"new_password": {
+			"text": "New Password"
+		},
+		"confirm_password": {
+			"text": "Confirm New Password"
+		},
+		"copy": {
+			"tooltip": "Copy",
+			"tooltip_flow": "down"
+		},
+		"share": {
+			"tooltip": "Share",
+			"tooltip_flow": "down"
+		},
+		"save": {
+			"text": "Save"
+		},
+		"clipboard_to_copy": {
+			"text": "Copied to clipboard!"
+		},
+		"match_password": {
+			"text": "Password is matched"
+		},
+		"not_match_passowrd": {
+			"text": "Password is not match"
+		},
+		"register_mobile_email": {
+			"text": "Registered Email / Mobile"
+		},
+		"login_here": {
+			"text": "Login Here"
+		},
+		"submit": {
+			"text": "SUBMIT"
+		},
+		"components": {
+			"cropprofile": {
+				"crop_profile": {
+					"text": "Update Profile Picture"
+				},
+				"upload": {
+					"text": "Upload"
+				},
+				"new_profile": {
+					"text": "New Profile"
+				}
+			}
+		}
+	},
+	"projects_details": {
+		"all_stat_of_project": {
+			"text": "Project Statistics"
+		},
+		"sheets": {
+			"text": "SHEETS"
+		},
+		"files": {
+			"text": "FILES"
+		},
+		"tasks": {
+			"text": "TASKS"
+		},
+		"reports": {
+			"text": "REPORTS"
+		},
+		"meetings": {
+			"text": "MEETINGS"
+		},
+		"teams": {
+			"text": "PEOPLE"
+		},
+		"permissions": {
+			"text": "Permissions"
+		},
+		"requested": {
+			"text": "requested"
+		},
+		"unlock": {
+			"text": "unlock"
+		},
+		"canceled": {
+			"text": "Canceled"
+		},
+		"cancel": {
+			"text": "Cancel"
+		},
+		"approved": {
+			"text": "Approved"
+		},
+		"refuse": {
+			"text": "Refuse"
+		},
+		"tasks_stat_by_category": {
+			"text": "Task Statistics by Category"
+		},
+		"task_by_status": {
+			"text": "Task Statistics by Status"
+		},
+		"task_stat_by_assignee": {
+			"text": "Task Statistics by Assignee"
+		},
+		"no_request_found": {
+			"text": "No Request Found"
+		},
+		"storagn_used_in_project": {
+			"text": "Storage used"
+		},
+		"report_name": {
+			"text": "Report Name"
+		},
+		"type": {
+			"text": "Type"
+		},
+		"assignee_n": {
+			"text": "Assignee"
+		},
+		"due_date": {
+			"text": "Due Date"
+		},
+		"what_heppaning": {
+			"text": "Here's what's happening on your project today."
+		},
+		"no_task_available": {
+			"text": "No Task Available"
+		}
+	},
+	"chat": {
+		"enter_message": {
+			"text": "Enter message"
+		}
+	},
+	"forgotpassword": {
+		"mobile": {
+			"text": "Mobile"
+		},
+		"ph_mobile": {
+			"text": "Enter Mobile No."
+		},
+		"continueb_btn": {
+			"text": "SUBMIT"
+		},
+		"login_here": {
+			"text": "Login here"
+		},
+		"use_mobile": {
+			"text": "Use Mobile"
+		},
+		"use_email": {
+			"text": "Use Email"
+		},
+		"already_have_an_account": {
+			"text": "Already have an account?"
+		}
+	},
+	"auth": {
+		"email": {
+			"text": "Email"
+		},
+		"ph_email": {
+			"text": "Email"
+		},
+		"mobile": {
+			"text": "Mobile"
+		},
+		"ph_mobile": {
+			"text": "Mobile"
+		},
+		"password": {
+			"text": "Password"
+		},
+		"ph_password": {
+			"text": "Password"
+		},
+		"forgot_password": {
+			"text": "Forgot Password ?"
+		},
+		"login_name": {
+			"text": "LOGIN"
+		},
+		"dont_have_an_account": {
+			"text": "Dont't have an account?"
+		},
+		"create_new_account": {
+			"text": "Create new account"
+		},
+		"use_mobile": {
+			"text": "Use Mobile"
+		},
+		"use_email": {
+			"text": "Use Email"
+		},
+		"terms_and_conditions": {
+			"text": "Terms and Conditions - Last Updated 26th Aug, 2020"
+		},
+		"change": {
+			"text": "Change"
+		},
+		"otp_will_expire": {
+			"text": "The OTP will expire in"
+		},
+		"register": {
+			"first_name": {
+				"text": "First Name"
+			},
+			"ph_first_name": {
+				"text": "First Name"
+			},
+			"last_name": {
+				"text": "Last Name"
+			},
+			"ph_last_name": {
+				"text": "Last Name"
+			},
+			"email": {
+				"text": "Email"
+			},
+			"ph_email": {
+				"text": "Email"
+			},
+			"mobile": {
+				"text": "Mobile (Optional)"
+			},
+			"change": {
+				"text": "Change"
+			},
+			"otp_will_expire": {
+				"text": "The OTP will expire in"
+			},
+			"ph_mobile": {
+				"text": "Mobile (Optional)"
+			},
+			"password": {
+				"text": "Password"
+			},
+			"ph_password": {
+				"text": "Password"
+			},
+			"referral_code": {
+				"text": "Referral Code (Optional)"
+			},
+			"ph_referral_code": {
+				"text": "Referral Code (Optional)"
+			},
+			"by_signing_up": {
+				"text": "By signing up, you agree to our"
+			},
+			"sing_up": {
+				"text": "SIGN UP"
+			},
+			"agree_terms_privacy_policy": {
+				"text": "Please Agree to Terms & Privacy Policy"
+			},
+			"terms_privacy_policy": {
+				"text": "Terms & Privacy Policy"
+			},
+			"verify": {
+				"text": "VERIFY"
+			}
+		},
+		"chat": {
+			"chat": {
+				"text": "Chat"
+			},
+			"dashboard": {
+				"text": "Dashboard"
+			},
+			"enter_message_na": {
+				"text": "Enter message"
+			}
+		}
+	},
+	"inspection": {
+		"create_inspection": {
+			"text": "+ Create Inspection"
+		},
+		"create_inspection_name": {
+			"text": "Create Inspection"
+		},
+		"select_role": {
+			"text": "select role"
+		},
+		"requested_user": {
+			"text": "Requested User"
+		},
+		"description": {
+			"text": "Description"
+		},
+		"inspection_date_n": {
+			"text": "Inspection Date"
+		},
+		"inspection_time": {
+			"text": "Inspection Time"
+		},
+		"select_location": {
+			"text": "select Location"
+		},
+		"inspection": {
+			"text": "Inspection"
+		},
+		"inspection_location": {
+			"text": "Inspection Location"
+		},
+		"update_inspection": {
+			"text": "Update Inspection"
+		},
+		"delete_inspection_message": {
+			"text": "are you sure to Delete Inspection"
+		},
+		"inspection_description": {
+			"text": "Enter Description"
+		}
+	},
+	"welcome": {
+		"welcome_to": {
+			"text": "Welcome to"
+		},
+		"lvefield": {
+			"text": "Livefield"
+		},
+		"livefield_gmail": {
+			"text": "livefield@gmail.com has been successfully verified."
+		},
+		"we_are_suggesting_you_to": {
+			"text": "We are suggesting you to verify your mobile number to get updated on the go."
+		},
+		"verify_now": {
+			"text": "Verify Now"
+		},
+		"skip_do_it_later": {
+			"text": "Skip, I'll do it later"
+		}
+	},
+	"verifyforogototp": {
+		"verify_your_email": {
+			"text": "Verify Your Email"
+		},
+		"a_code_has_been_sent_to": {
+			"text": "A code has been sent to"
+		},
+		"didn_receive_the_code?": {
+			"text": "Didn't receive the code?"
+		},
+		"resend": {
+			"text": "Resend"
+		},
+		"verify": {
+			"text": "VERIFY"
+		},
+		"already_have_an_account?": {
+			"text": "Already have an account?"
+		},
+		"login_here": {
+			"text": "Login here"
+		}
+	},
+	"emailVerification": {
+		"verify_your_email": {
+			"text": "Verify Your Email"
+		},
+		"a_code_has_been_sent_to": {
+			"text": "A code has been sent to"
+		},
+		"didn_receive_the_code": {
+			"text": "Didn't receive the code?"
+		},
+		"resend": {
+			"text": "Resend"
+		},
+		"verify": {
+			"text": "VERIFY"
+		},
+		"the_otp_expire_in": {
+			"text": "The OTP Expire in"
+		},
+		"email_is_empty": {
+			"text": "Email is empty"
+		},
+		"enter_otp": {
+			"text": "Please Enter OTP"
+		}
+	},
+	"mobileVerification": {
+		"verify_your_mobile": {
+			"text": "Verify Your Mobile"
+		},
+		"a_code_has_been_sent_to": {
+			"text": "A code has been sent to"
+		},
+		"resend": {
+			"text": "Resend"
+		},
+		"didnt_receive_the_code": {
+			"text": "- Didn't receive the code?"
+		},
+		"verify": {
+			"text": "VERIFY"
+		},
+		"the_otp_expire_in": {
+			"text": "The OTP Expire in"
+		},
+		"mobile_is_empty": {
+			"text": "Mobile is empty"
+		},
+		"enter_otp": {
+			"text": "Please Enter OTP"
+		}
+	},
+	"projectsnodata": {
+		"index": {
+			"hey": {
+				"text": "Hey "
+			},
+			"akshay": {
+				"text": "Akshay "
+			},
+			"currently_you_have_no_added ": {
+				"text": "Currently you have no added "
+			},
+			"Please_add_a_project_and_explore_the_functionality ": {
+				"text": "Please add a project and explore the functionality "
+			},
+			"new_project ": {
+				"text": "+ New Project "
+			},
+			"project_setting": {
+				"text": "Project Setting"
+			},
+			"project_name": {
+				"text": ""
+			},
+			"project_code ": {
+				"text": "Project Code "
+			},
+			"add_to_archive ": {
+				"text": "Add to archive "
+			},
+			"leave_project": {
+				"text": "Leave Project"
+			}
+		}
+	},
+	"shareFile": {
+		"share_file": {
+			"text": "Share File"
+		},
+		"share_file_heading": {
+			"text": "Your File is ready"
+		},
+		"shared_file_heading": {
+			"text": "Did you select the report type?"
+		},
+		"share_file_description": {
+			"text": "Your file is now ready to share and download"
+		},
+		"shareable_link": {
+			"text": "Shareable link"
+		},
+		"copy_paste_link": {
+			"text": "Copy and paste the link below into emails or chats."
+		},
+		"download_file": {
+			"text": "Download File"
+		},
+		"copy": {
+			"text": "Copy",
+			"tooltip": "Copy",
+			"tooltip_flow": "down"
+		},
+		"link_here": {
+			"text": "Link Here"
+		},
+		"report_type": {
+			"text": "Choose Report Type"
+		},
+		"detailed_type": {
+			"text": "Detailed Report"
+		},
+		"summary_report": {
+			"text": "Summary Report"
+		},
+		"generate_report": {
+			"text": "Generate Report"
+		},
+		"report_by": {
+			"text": "Report By"
+		}
+	},
+	"metaHead": {
+		"title": {
+			"text": "My Title"
+		}
+	},
+	"notFound": {
+		"notFoundText": {
+			"text": "404"
+		},
+		"sorryText": {
+			"text": "Sorry, This page isn't available."
+		},
+		"goBackMessage": {
+			"text": "Uh Oh, We can't seem to find the data you're looking for. Try going back to the previous page."
+		},
+		"goBackText": {
+			"text": "Go Back"
+		}
+	}
+}

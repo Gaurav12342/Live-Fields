@@ -1,0 +1,36 @@
+.jdropdown-picker .jdropdown-selected {
+	background-color: #f97316;
+}
+
+.jdropdown-picker .jdropdown-cursor {
+	background-color: #f97316;
+}
+
+.jcalendar-reset,
+.jcalendar-confirm {
+	--active-color: #5e6278;
+}
+
+.jcalendar-reset:hover,
+.jcalendar-confirm:hover {
+	--active-color: #f97316;
+}
+
+.jexcel_container {
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+
+.jexcel > tbody > tr > td {
+	white-space: normal;
+	line-height: 1.5em;
+}
+
+.jexcel_contextmenu .jcontextmenu {
+	display: none !important;
+}
+
+.jexcel_about {
+	display: none;
+}
